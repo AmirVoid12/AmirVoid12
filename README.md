@@ -1,6 +1,6 @@
 <!-- ANIMATED BACKGROUND WAVES HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Amir's%20Digital%20World&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Elegant%20Solutions%20to%20Complex%20Problems&descAlignY=55&descSize=15" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Amir's%20Void12%20Dev&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Elegant%20Solutions%20to%20Complex%20Problems&descAlignY=55&descSize=15" width="100%">
 </div>
 
 <!-- ANIMATED TYPING EFFECT -->
