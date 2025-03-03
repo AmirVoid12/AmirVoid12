@@ -1,164 +1,296 @@
+<!-- ANIMATED BACKGROUND WAVES HEADER -->
 <div align="center">
-  
-  <!-- Dynamic Header with SVG Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=300&section=header&text=AmirVoid&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20|%20Problem%20Solver%20|%20Innovator&descAlignY=60&descAlign=50" width="100%" />
-  
-  <!-- Discord Status -->
-  <a href="https://discord.com/users/746714591098306641">
-    <img src="https://lanyard.cnrad.dev/api/746714591098306641?theme=light&bg=0099ff&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20amazing..." alt="Discord Presence" width="450px" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Amir's%20Digital%20World&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Elegant%20Solutions%20to%20Complex%20Problems&descAlignY=55&descSize=15" width="100%">
+</div>
+
+<!-- ANIMATED TYPING EFFECT -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+Amir's+World;Full-Stack+Developer;Creative+Problem+Solver;AI+%26+ML+Enthusiast;Cybersecurity+Specialist" alt="Typing SVG" />
   </a>
+</p>
 
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0099FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Cybersecurity+Specialist;Creative+Problem+Solver;13%2B+Programming+Languages" alt="Typing SVG" /></a>
+<!-- DIGITAL BANNER WITH GLOW EFFECT -->
+<div align="center">
+  <img src="https://i.imgur.com/rTZkf4K.gif" width="100%" alt="Blue Digital Banner">
+</div>
 
+<!-- GLOWING TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=About+Amir" alt="About Amir" />
+</div>
+
+<!-- ABOUT SECTION WITH ANIMATED EMOJI AND GRADIENT TEXT -->
+<div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Blob Sunglasses"/> 
+  <span><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=24&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Creative+Developer+%7C+Innovator+%7C+Visionary" /></span>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=18&duration=1&pause=1000&color=00CCFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Amir+is+a+brilliant%2C+creative+developer+with+exceptional;problem-solving+abilities.+His+passion+for+technology+and;innovation+drives+him+to+create+elegant+solutions+for+complex+challenges." />
+</p>
+
+<!-- ANIMATED STATS CARDS WITH GRADIENT BORDERS -->
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=00B4D8&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AmirVoid12" alt="Stars">
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=00B4D8&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AmirVoid12" alt="Forks">
+  <img src="https://komarev.com/ghpvc/?username=AmirVoid12&style=for-the-badge&color=00B4D8" alt="Profile Views">
+</div>
+
+<!-- DISCORD LANYARD WITH PULSING BORDER -->
+<div align="center">
+  <div style="border-radius:30px; overflow:hidden; box-shadow: 0 0 15px #00B4D8, 0 0 30px #00B4D8, 0 0 45px #00B4D8;">
+    <a href="https://discord.com/users/746714591098306641">
+      <img src="https://lanyard.cnrad.dev/api/746714591098306641?theme=light&bg=00b4d8&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20coding%20something%20amazing..." alt="Discord Presence" width="450px" />
+    </a>
+  </div>
+</div>
+
+<!-- ANIMATED CODER MATRIX GIF -->
+<div align="center">
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="450" />
+</div>
+
+<!-- TECH STACK SECTION WITH GLOWING TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Tech+Stack" alt="Tech Stack" />
+</div>
+
+<!-- TECH ICONS WITH 3D LOOK -->
+<div align="center" style="display: inline-block;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
+</div>
+
+<!-- ANIMATED TECH SKILLS WITH LARGER ICONS -->
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="HTML5" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="CSS3" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="JavaScript" />
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="100" alt="React" />
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.webp" width="100" alt="VSCode" />
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" alt="NodeJS" />
+</p>
+
+<!-- GLOWING SKILL BADGES -->
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=00E6E6&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Programming+Languages" alt="Programming Languages" />
+  </h3>
+  
+  <img src="https://img.shields.io/badge/Python-05b4d8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-05b4d8?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-05b4d8?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-05b4d8?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-05b4d8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-05b4d8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=00E6E6&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Frameworks+%26+Libraries" alt="Frameworks & Libraries" />
+  </h3>
+  
+  <img src="https://img.shields.io/badge/React-03C8B8?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-03C8B8?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-03C8B8?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Vue-03C8B8?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-03C8B8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=00E6E6&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Databases+%26+DevOps" alt="Databases & DevOps" />
+  </h3>
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-02A2B9?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-02A2B9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-02A2B9?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-02A2B9?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-02A2B9?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=00E6E6&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Operating+Systems" alt="Operating Systems" />
+  </h3>
+  
+  <img src="https://img.shields.io/badge/Windows-57C7EA?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-57C7EA?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/macOS-57C7EA?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+</div>
+
+<!-- ANIMATED CODE CONTRIBUTION SNAKE WITH GLOW EFFECT -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<!-- HOLOGRAPHIC DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- CODE PROFILE WITH SYNTAX HIGHLIGHTING -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Amir's+Code+Profile" alt="Amir's Code Profile" />
+</div>
+
+```javascript
+// amir.js - Amir's Coding Profile
+const amir = {
+  name: "Amir",
+  title: "Full-Stack Developer & Problem Solver",
+  languages: ["Python", "JavaScript", "TypeScript", "PHP", "HTML", "CSS", "SQL"],
+  tools: ["React", "Node.js", "Docker", "Redis", "PostgreSQL"],
+  interests: ["AI & ML", "Cybersecurity", "DevOps", "Open Source"],
+  currentLearning: "Advanced Software Architecture",
+  funFact: "I can code in 13+ programming languages!",
+  
+  sayHi: function() {
+    console.log("Thanks for visiting my GitHub profile! Let's build something amazing together.");
+  }
+};
+
+amir.sayHi();
+```
+
+<!-- HOLOGRAPHIC DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- STATS SECTION WITH ANIMATIONS AND GLOW EFFECTS -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=GitHub+Stats" alt="GitHub Stats" />
+</div>
+
+<!-- DYNAMICALLY CHANGING STATS WITH GLOWING EDGES -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmirVoid12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%" alt="Amir's GitHub Stats" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirVoid12&theme=tokyonight&hide_border=true&background=0d1117" width="49%" alt="Amir's GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTEyIDJDNi40ODggMiAyIDYuNDg4IDIgMTJzNC40ODggMTAgMTAgMTAgMTAtNC40ODggMTAtMTBTMTcuNTEyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6bTEtMTFoLTJ2Nmg2di0ySDEzVjl6Ii8+PC9zdmc+" alt="About Icon" width="25" align="center"> **About Amir - A Visionary Developer**
-
-I'm not just a programmer; I'm a creative force in the digital world. With a passion for innovation and a talent for solving complex problems, I've dedicated my journey to pushing the boundaries of what technology can achieve. My work combines technical excellence with artistic vision, creating solutions that are both functional and beautiful.
-
+<!-- TOP LANGUAGES CARD WITH GLOW -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirVoid12&theme=algolia&margin-w=15&margin-h=15&column=7&no-frame=true" alt="Trophy" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmirVoid12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117" alt="Top Languages" />
+  </a>
 </div>
 
-- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+PHBhdGggZD0iTTEyIDQuNUM3IDQuNSAyLjczIDcuNjEgMSAxMmMxLjczIDQuMzkgNiA3LjUgMTEgNy41czkuMjctMy4xMSAxMS03LjVjLTEuNzMtNC4zOS02LTcuNS0xMS03LjV6TTEyIDE2Yy0yLjIxIDAtNC0xLjc5LTQtNHMxLjc5LTQgNC00IDQgMS43OSA0IDQtMS43OSA0LTQgNHptMC02LjVjLTEuMzggMC0yLjUgMS4xMi0yLjUgMi41czEuMTIgMi41IDIuNSAyLjUgMi41LTEuMTIgMi41LTIuNS0xLjEyLTIuNS0yLjUtMi41eiIvPjwvc3ZnPg==" alt="Interest Icon" width="16" align="center"> Exploring the frontiers of **AI**, **machine learning**, and **cybersecurity**
-- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+PHBhdGggZD0iTTIwIDhjMC0yLjIxLTEuNzktNC00LTRoLThDNS43OCA0IDQgNS43OSA0IDh2OGMwIDIuMjEgMS43OSA0IDQgNGg4YzIuMjEgMCA0LTEuNzkgNC00VjhjMC0uMDU1LS4wMDMtLjExLS4wMDgtLjE2NEw4LjE2NCAxOS45OTJjLS4wNTQuMDA1LS4xMDkuMDA4LS4xNjQuMDA4LTEuNjU0IDAtMy0xLjM0Ni0zLTN2LTYuOTcyTDE4Ljk3MiA1bC4wMjguMDI4VjhjMCAxLjY1NC0xLjM0NiAzLTMgM0gxMlY3aDRjLjU1MSAwIDEgLjQ0OCAxIDFzLS40NDkgMS0xIDF2MmMxLjY1NCAwIDMtMS4zNDYgMy0zcy0xLjM0Ni0zLTMtM2gtNGMtMS42NTQgMC0zIDEuMzQ2LTMgM3Y0aDVjMi4yMDYgMCA0IDEuNzk0IDQgNHMtMS43OTQgNC00IDRoLThDNC43OTQgMjAgMyAxOC4yMDYgMyAxNlY4YzAtMi4yMDYgMS43OTQtNCA0LTRoOGMyLjIwNiAwIDQgMS43OTQgNCA0djRoLTJWOHoiLz48L3N2Zz4=" alt="Learning Icon" width="16" align="center"> Mastering **advanced software architectures** and **DevOps practices**
-- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+PHBhdGggZD0iTTE4IDEzaC00djRoLTR2LTRINlY5aDRWNWg0djRoNHY0eiIvPjwvc3ZnPg==" alt="Collaboration Icon" width="16" align="center"> Open to collaborate on **innovative open-source projects**
-- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+PHBhdGggZD0iTTExLjk5IDJDNi40NyAyIDIgNi40OCAyIDEyczQuNDcgMTAgOS45OSAxMEMxNy41MiAyMiAyMiAxNy41MiAyMiAxMlMxNy41MiAyIDExLjk5IDJ6TTguNSA4QzkuMzMgOCAxMCA4LjY3IDEwIDkuNVM5LjMzIDExIDguNSAxMVM3IDEwLjMzIDcgOS41UzcuNjcgOCA4LjUgOHptOC41IDhINyB2LTJoMTB2MnptLTguNS02QzguNjcgMTAgOCA5LjMzIDggOC41UzguNjcgNyA5LjUgN1MxMSA3LjY3IDExIDguNVMxMC4zMyAxMCA5LjUgMTB6bTggNGgtMTB2LTJoMTB2MnoiLz48L3N2Zz4=" alt="Pronouns Icon" width="16" align="center"> Pronouns: **He/Him**
-- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+PHBhdGggZD0iTTExLjg4IDkuMTRjMS4yOCAwIDIuMzEtMS4wNiAyLjMxLTIuMzdzLTEuMDMtMi4zNi0yLjMxLTIuMzZjLTEuMjggMC0yLjMxIDEuMDYtMi4zMSAyLjM2czEuMDMgMi4zNyAyLjMxIDIuMzd6TTIwIDIuMDFMNCAyYTIgMiAwIDAwLTIgMnYxOGwyMC0uMDFoMHYtMThoMFYyLjAxek0xNi4wNCAxNi43M2gtMS4zM2MwLTMuNjktNS4xLTMuNzYtNS4xLTUuODYgMC0xLjA3Ljk2LTEuOTMgMi4xMy0xLjkzczIuMTMuODcgMi4xMyAxLjkzdi40Yy0uMDEgMC0uMDEuMDEtLjAxLjAxaDEuMzNjMC0uMDUuMDEtLjA5LjAxLS4xNHYtLjI2YzAtMS4xNy0uNTMtMi4yMi0xLjM2LTIuOTJ2LS40YzAtLjc0LS42LTEuMzMtMS4zMy0xLjMzaC0xLjMzYy0uNzMgMC0xLjMzLjYtMS4zMyAxLjMzdjQuNThIMTBWMTZoMS4zM3YuNzNoNC43MXYtLjAxeiIvPjwvc3ZnPg==" alt="Fun Fact Icon" width="16" align="center"> **Fun fact:** I can code in **13 or more programming languages**!
-
-<br>
-
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTIyLjcgMTksMTMuNiA5LjlsLjktLjlhMSAxIDAgMCwxIDEuNC0xLjRsMy45IDRhMSAxIDAgMCwwIDEuNC0xLjRMMTcuMSA2YTMgMyAwIDAgMC00LjIgMGwtLjkuOS0xLjQtMS40QTMgMyAwIDAgMCw2LjQgNS40TDMuMSA4LjdsLjUuNUw5IDMuOGExIDEgMCAwLDEgMS40IDEuNEwyLjMgMTNsLS40LjRBMyAzIDAgMCwwLDEuMSAxNWgwYTMgMyAwIDAgMCwuOCAyLjEgMy4xIDMuMSAwIDAgMCw0LjMgMGwyLjktM0wxNSAyMGwwLDBhMyAzIDAgMCwwLDQuMi00LjJsLS41LS41LDEuNC0xLjRMMjIgMTUuNmExIDEgMCAwLDEsMS40IDEuNGwtMS45IDJhMSAxIDAgMCwxLTEuNC0xLjRsLS40LS40LTEuNDEgMS40LjQgLjRhMyAzIDAgMCwwLDQuMiAwaDBBMyAzIDAgMCwwLDIzIDE2aDBBMyAzIDAgMCwwLDIyLjcgMTlaTTYuOCAxNi42YTEgMSAwIDAgMS0xLjQgMGgwYTEgMSAwIDAgMS0uMy0uN2gwaDBhMSAxIDAgMCwxLC4zLS43aDBsLjItLjIsMi43LDIuNy0xLjUgMS41Wm0xMi44LjdhMSAxIDAgMCwxLTEuNCwwTDE0LjQgMTMuNWwyLjktMi45LDMuOSAzLjlBMSAxIDAgMCwxLDIxLjUgMTUoMEExIDEgMCAwLDEsMTkuNiAxNy4zWiIvPjwvc3ZnPg==" alt="Skills Icon" width="25" align="center"> **Technical Expertise**
-
+<!-- TROPHIES WITH GLOW -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,php,html,css,mysql,postgresql,redis,mongodb&theme=light&perline=8" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=AmirVoid12&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+  </a>
 </div>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <!-- Languages -->
-      <h3 align="center">⌨️ Programming & Scripting</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&color=0099ff" />
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <!-- Frameworks and Tools -->
-      <h3 align="center">🛠️ Frameworks & Tools</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0099ff" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <!-- Databases -->
-      <h3 align="center">💾 Databases</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=0099ff" />
-      </div>
-    </td>
-    <td valign="top">
-      <!-- Operating Systems -->
-      <h3 align="center">🖥️ Operating Systems</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white&color=0099ff" />
-        <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&color=0099ff" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTE5LjE0IDEyLjk0YzEuNjItMS42MSAxLjYyLTQuMjQgMC01Ljg2LTEuNjMtMS42MS00LjI3LTEuNjEtNS44OSAwTDEyIDguMzZsLTEuMjUtMS4yNWMtMS42Mi0xLjYxLTQuMjYtMS42MS01Ljg3IDBDNC42MiA3LjcgMy43NiA4LjIxIDMuMjQgOC44OWwtMi4yOS0uOTVjLS41NC0uMjItMS4xNS4wMS0xLjM3LjU0LS4yMS41My4wMSAxLjEzLjU0IDEuMzVsLjgzLjM1Yy0uMjcuNzUtLjI3IDEuNTcgMCAyLjMybC0uODMuMzVjLS41NC4yMi0uNzUuODMtLjU0IDEuMzUuMjIuNTMuODMuNzQgMS4zNy41MmwyLjI5LS45NWMuNTIuNjggMS4zOCAxLjE5IDIuNjQgMS4xOSAxLjUyIDAgMi45OC0uNjEgNC4wNi0xLjY4bDEuMjUtMS4yNSAxLjI1IDEuMjVjMS4wOCAxLjA3IDIuNTQgMS42OCA0LjA2IDEuNjggMS42NiAwIDMuMTQtLjYxIDQuMzItMS42OGwuMjguMjhjLjM5LjM5IDEuMDIuMzkgMS40MSAwIC4zOS0uMzkuMzktMS4wMiAwLTEuNDFsLS4yOC0uMjh6TTcuOSAxMC4xMWM0LjUtNC41IDE1LjQ2LjQ0IDkuNDMgNS4xNy0uNDIuMDctLjg4LjEyLTEuMzMuMTItMS40NSAwLTIuODMtLjU4LTMuODYtMS42MWwtMS4yNS0xLjI1LTEuMjUgMS4yNWMtMS4wMy0xLjAzLTIuNDItMS42MS0zLjg2LTEuNjEtLjQ1IDAtLjkxLS4wNS0xLjM0LS4xMi4xLS4yNS4yNS0uNDUuNDQtLjY1bC4xNC0uMTQtLjE0LS4xNGMtLjEzLS4xNS0uMjktLjMxLS40MS0uNDctLjExLS4xNS0uMjQtLjMyLS4zNC0uNDggMS42OS0uMTUgMy40My4yNyA0LjY2IDEuNWw1LjA0LTUuMDRjLjI0LS4yNC42My0uMjQgLjg2IDAgLjI0LjI0LjI0LjYzIDAgLjg2bC00Ljc3IDQuNzhjLS41Mi4xLTEuMDQuMTQtMS41Ni4xNC0xLjQ1IDAtMi45MS0uNS0zLjk0LTEuNTRDNiAxMC42MiA2LjY0IDEwLjExIDcuOSAxMC4xMXoiLz48L3N2Zz4=" alt="Achievements Icon" width="25" align="center"> **Notable Achievements**
-
+<!-- PULSING 3D ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirVoid12&theme=algolia&hide_border=true&background=0D1117&stroke=0D1117&fire=0099ff&currStreakLabel=0099ff&sideLabels=0099ff" alt="GitHub Streak" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirVoid12&theme=react-dark&hide_border=true&bg_color=0d1117&color=00B4D8&line=00B4D8&point=FFFFFF" width="95%" alt="Activity Graph" />
+  </a>
 </div>
 
-- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+PHBhdGggZD0iTTEzLjcgMTkuN0MxMyAyMC4zIDEyLjEgMjAuNyAxMS4zIDIwLjgdtMS43MS0xLjM5LjIxLTEuNDgtLjc0IDEuMy0xLjA5Yy4zNS0uMzEuNzMtLjYzIDEuMDktLjkzTDEwLjQgMTYuN2MtLjM2LjMxLS43Mi42MS0xLjA3LjkxTDguNSAxNS43NGwxLjQ4LS43NS0xLjMxLS43OWMuMzUtLjIzLjcxLS40NyAxLjA3LS42OUw4LjUgMTIuMzZsMi4yNy0xLjE3YzEuMTQtLjU4IDIuMDktLjIzIDIuODUuNzVsMS45NSAyLjVjLjcuODkuNzcgMS45Ny4yMSAyLjcyLjUxLjI5LjkxLjc1IDEuMDkgMS4zNC4yMS42NS4wMiAxLjM1LS40NSAxLjkybC0yLjQ0IDIuOGMtMS4yOCAxLjI2LTMuMTggMS40Ni00LjYuNDlMNyAxOS43MmEyLjMgMi4zIDAgMCAxLTEuMDYtMS43Yy0uMS0xLjM2LjgzLTIuMzggMS45OS0yLjM4aDQuMzVjLjIzIDAgLjQyLS4xOS40Mi0uNDJzLS4xOS0uNDItLjQyLS40Mkg3LjkzYy0xLjE1IDAtMi4wNi0uOTctMS45NS0yLjEyLjA5LS45Ni44Ni0xLjcxIDEuODItMS43MWg3LjM3bDIuMzctMy4wMmMxLjA4LTEuMzguMzYtMy40Mi0xLjM1LTMuODUtLjE0LS4wNC0uMjktLjA2LS40NC0uMDZzLS4zLjAyLS40NC4wNmwtNC4zNCAxLjIzYy0uMTctLjI0LS4zNy0uNDYtLjU3LS42N0wxMyA0YzEuNjgtLjk1IDMuNzYtLjU4IDQuOTYuOTMgMS4xMiAxLjQiLz48L3N2Zz4=" alt="Medal Icon" width="16" align="center"> **Pioneer of Discord Bots**: Created one of the first public Discord bots in 2022 with innovative features
-- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+PHBhdGggZD0iTTEyIDJsMS40NSAyLjlMMTYuMjggNnYzLjQ1bC0yLjgzIDEuNDN2NS43NEw4LjYyIDE1LjE5di01Ljc0TDUuNzIgOC4wNlY0LjZsMi44My0xLjdMMTIgMm0wIDBMOS4xNyA0LjZsLTIuODMgMS43djMuNDVsMi44MyAxLjQ0djUuNzRsMi44MyAxLjQzdjUuNzQgMGwzLjQ1LTEuNDN2LTUuNzRsMi44My0xLjQzVjYiLz48L3N2Zz4=" alt="Star Icon" width="16" align="center"> **Open Source Contributor**: Made significant contributions to several major open-source projects
-- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+PHBhdGggZD0iTTEzLjEzIDIyLjE5bC0xLjYzLTEuNjMgOC0xMC41LTYuODgtNi44OC0xMC41IDggLTEuNjMtMS42MyA2LjczLTEwLjQ0YzMuNjQtMi4xNSA4LjEyLTEuMTUgMTEuMTMgMS44NiAzLjAxIDMuMDEgNC4wMS03LjU5IDEuODYgMTEuMjMgbC0xMC40NCA2Ljc5eiIvPjwvc3ZnPg==" alt="Rocket Icon" width="16" align="center"> **Framework Developer**: Built a popular web application framework used by thousands of developers
-- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+PHBhdGggZD0iTTEyIDJjLTQuNDIgMC04IDMuNTgtOCA4IDAgNS40OCA0LjAyIDEwIDcuODkgMTAuNTdDMTQuNzggMjAuMiAxNS43MyAyMCAxNi44IDE5LjY2Yy45NC0uMzEgMS44MS0uNzggMi41OC0xLjM3IDEuNTUtMS4xOSAyLjQ0LTIuNzEgMi40NC00LjI5IDAtMyAyLjQtNC4yMyAzLjktNC4yMy41OC0uODIuOTktMS45Ni45OS0zLjI3IDAtNS40Mi01LjU4LTktMTMuOTEtOXMtMTIuOTEgMy42LTEyLjkxIDljMCAxLjE0LjI5IDIuMjcuODMgMy4zNyAyLjY0LS43OCA0LjQtMS4yNCA1LjcxLTEuODIuNS0uMzQuOTEtLjgxIDEuMTktMS4zN2wtLjA5IDMuODNhMiAyIDAgMCAxIDEuMzcgMi40NWMtLjUzIDEuNDgtMS41NiAyLjcyLTIuODYgMy40NC0uNTUuMzEtMS4xNS41Ni0xLjguNzZsLS4yMi4wOEMxMC43NiAxOS40MSAxMC4yNSAyMCA5LjIgMjBjLTEuMDUgMC0xLjU2LS41OC0xLjU2LTEuMzYiLz48L3N2Zz4=" alt="Award Icon" width="16" align="center"> **Award Winner**: Recognized for technical excellence in multiple hackathons and competitions
-
-<br/>
-
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTIwLjUgM2wtLjE2LjAzTDE1IDUuMTMgOSAzIDMuMzYgNC45Yy0uMjEuMDctLjM2LjI1LS4zNi40OFYyMC41YzAgLjI4LjIyLjUuNS41bC4xNi0uMDNMOSAxOC44N2w2IDIuMSA1LjY0LTEuOWMuMjEtLjA3LjM2LS4yNS4zNi0uNDhWMy41YzAtLjI4LS4yMi0uNS0uNS0uNXpNMTUgMTlsLTYtMi4xMVY1bDYgMi4xMVYxOXoiLz48L3N2Zz4=" alt="Projects Icon" width="25" align="center"> **Featured Projects & Contributions**
-
+<!-- ACHIEVEMENTS SECTION WITH GLOWING TITLE -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirVoid12&repo=Website-template&theme=algolia&bg_color=0D1117&title_color=0099ff&icon_color=0099ff&hide_border=true&show_icons=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Achievements" alt="Achievements" />
 </div>
 
-<!-- GitHub Activity Chart -->
+<!-- ACHIEVEMENT CARDS WITH HOVER EFFECTS -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AmirVoid12&theme=react-dark&bg_color=0D1117&color=0099ff&line=0099ff&point=FFFFFF&hide_border=true" alt="GitHub Activity" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Trophy" width="100%">
+        <br>
+        <h3>🏆 Created the first public Discord bot in 2022</h3>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" alt="Code" width="60%">
+        <br>
+        <h3>🌟 Contributed to multiple open-source projects</h3>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/hWSgfQ9YNjdj5NWvfS/giphy.gif" alt="Web" width="80%">
+        <br>
+        <h3>🚀 Developed a popular web application framework</h3>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" alt="Security" width="60%">
+        <br>
+        <h3>🔒 Built advanced cybersecurity solutions</h3>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<!-- FEATURED PROJECTS WITH GLOWING TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Featured+Projects" alt="Featured Projects" />
+</div>
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTE0IDhjMCAyLjIxLTEuNzkgNC00IDRzLTQtMS43OS00LTQgMS43OS00IDQtNCA0IDEuNzkgNCA0em0tMTIuMjcgNy4yYy0uODQtLjU0LTEuNzMuMDktMS43MyAxLjA5VjE4YzAgLjU1LjQ1IDEgMSAxaDlWMTdjLjQ5LTEuMjUgMS40My0yLjI1IDIuNjUtMi44MS0uMjUtLjA5LS41Ni0uMTktLjY1LS4xOSAxLjM1LTEuODEgMS44LTQuNTggMS44LTYgMC0xLjk1LS43Ni01LTQtNS00LjMzIDAtNy4xIDMuNTktOC44IDcuMmgtMmMtLjU1IDAtMSAuNDUtMSAxdjRjMCAxLjM3IDEuMDggMS40NCAxLjggMS40NFoiLz48L3N2Zz4=" alt="GitHub Stats Icon" width="25" align="center"> **GitHub Analytics**
+<!-- PROJECT CARDS WITH HOVER EFFECTS -->
+<div align="center">
+  <a href="https://github.com/AmirVoid12/Website-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirVoid12&repo=Website-template&theme=tokyonight&hide_border=true&bg_color=0d1117&border_color=0d1117" alt="Website Template" />
+  </a>
+</div>
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirVoid12&show_icons=true&theme=algolia&bg_color=0D1117&title_color=0099ff&icon_color=0099ff&hide_border=true&show_icons=true" />
-    </td>
-    <td valign="top">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirVoid12&theme=algolia&bg_color=0D1117&title_color=0099ff&icon_color=0099ff&hide_border=true&show_icons=true&layout=compact" />
-    </td>
-  </tr>
-</table>
+<!-- CODING ANIMATION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/HVofJOWFXGpDX4xeg1/giphy.gif" alt="Coding Animation" width="60%" />
+</div>
 
-<br/>
+<!-- CONNECT WITH ME SECTION WITH GLOWING TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Connect+With+Me" alt="Connect With Me" />
+</div>
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwOTlmZiIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTIwIDRINGMtMS4xIDAtMS45OS45LTEuOTkgMkwyIDhjMCAwLTEgMyAxIDNsMSAxMXYxbDQgNEw0IDR6bTMtMWwtMy02IDYgNnY4aDFWM3oiLz48L3N2Zz4=" alt="Contact Icon" width="25" align="center"> **Connect With Me**
-
+<!-- SOCIAL MEDIA BUTTONS WITH GLOW EFFECTS -->
 <div align="center">
   <a href="https://www.instagram.com/@amir.davodinia">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=0099ff" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-00CCBB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://t.me/AmirDavodinia">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=0099ff" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-00CCBB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.amirdavodinia.ir">
-    <img src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=Firefox-Browser&logoColor=white&color=0099ff" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-00CCBB?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/AmirVoid12">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0099ff" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-00CCBB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/746714591098306641">
+    <img src="https://img.shields.io/badge/Discord-00CCBB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
----
-
+<!-- VISITOR COUNTER WITH GLOWING ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=120&section=footer" width="100%" />
-  <img src="https://komarev.com/ghpvc/?username=AmirVoid12&color=0099ff&style=for-the-badge" alt="Profile Views" />
-  <p><b>Thank you for visiting my profile! Let's build something amazing together.</b></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=20&duration=1&pause=1000&color=00E6E6&center=true&vCenter=true&repeat=false&width=280&height=45&lines=Visitor+Count" alt="Visitor Count" />
+  <br>
+  <img src="https://profile-counter.glitch.me/{AmirVoid12}/count.svg" alt="Visitor Count" />
+</div>
+
+<!-- ANIMATED WAVE FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=120&section=footer" width="100%">
+</div>
+
+<!-- CHANGING THANK YOU MESSAGE (Changes every 2 seconds) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Follow+me+for+more+cool+projects!;Have+a+wonderful+day!;Happy+coding!" alt="Typing SVG" />
+  </a>
 </div>
