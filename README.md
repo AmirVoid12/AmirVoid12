@@ -41,7 +41,7 @@
 <div align="center">
   <div style="border-radius:30px; overflow:hidden; box-shadow: 0 0 15px #00B4D8, 0 0 30px #00B4D8, 0 0 45px #00B4D8;">
     <a href="https://discord.com/users/746714591098306641">
-      <img src="https://lanyard-profile-readme.vercel.app/api/746714591098306641?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px" alt="Discord Presence" width="450px" />
+      <img src="https://lanyard-profile-readme.vercel.app/api/746714591098306641?theme=dark&animated=true&hideDiscrim=true&Status=true&borderRadius=30px" alt="Discord Presence" width="450px" />
     </a>
   </div>
 </div>
