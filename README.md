@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING EFFECT -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+Amir's+World;Full-Stack+Developer;Creative+Problem+Solver;AI+%26+ML+Enthusiast;Cybersecurity+Specialist" alt="Typing SVG" />
   </a>
 </p>
@@ -216,10 +216,10 @@ amir.sayHi();
 
 <!-- DYNAMICALLY CHANGING STATS WITH ENHANCED GLOWING EDGES -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="/">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmirVoid12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" width="49%" alt="Amir's GitHub Stats" />
   </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirVoid12&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF" width="49%" alt="Amir's GitHub Streak" />
   </a>
 </div>
@@ -228,21 +228,21 @@ amir.sayHi();
 
 <!-- ENHANCED TOP LANGUAGES CARD WITH INTENSIFIED GLOW -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="/">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmirVoid12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
   </a>
 </div>
 
 <!-- ENHANCED TROPHIES WITH INTENSIFIED GLOW -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="/">
     <img width="95%" src="https://github-profile-trophy.vercel.app/?username=AmirVoid12&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
   </a>
 </div>
 
 <!-- ENHANCED PULSING 3D ACTIVITY GRAPH -->
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirVoid12&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF" width="95%" alt="Activity Graph" />
   </a>
 </div>
@@ -291,9 +291,6 @@ amir.sayHi();
 <div align="center">
   <a href="https://github.com/AmirVoid12/Website-template">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirVoid12&repo=Website-template&theme=tokyonight&hide_border=true&bg_color=0d1117&border_color=0d1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="Website Template" />
-  </a>
-  <a href="https://github.com/AmirVoid12/AI-ML-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirVoid12&repo=Website-template&theme=tokyonight&hide_border=true&bg_color=0d1117&border_color=0d1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="AI-ML Projects" />
   </a>
 </div>
 
