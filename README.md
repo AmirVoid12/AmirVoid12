@@ -58,17 +58,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Tech+Stack" alt="Tech Stack" />
 </div>
 
-<!-- TECH ICONS WITH ENHANCED 3D LOOK -->
-<div align="center" style="display: inline-block;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-</div>
-
 <!-- BEAUTIFUL SVG TECH SKILLS WITH ENHANCED VISUALS -->
 <div align="center" style="margin-top: 20px;">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
