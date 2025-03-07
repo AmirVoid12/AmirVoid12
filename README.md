@@ -41,7 +41,7 @@
 <div align="center">
   <div style="border-radius:30px; overflow:hidden; box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF, 0 0 45px #00FFFF;">
     <a href="https://discord.com/users/746714591098306641">
-      <img src="https://lanyard-profile-readme.vercel.app/api/746714591098306641?theme=dark&animated=true&hideDiscrim=true&Status=true&idleMessage=Probably%20coding%20something%20amazing...&borderRadius=30px" alt="Discord Presence" width="450px" />
+      <img src="https://lanyard-profile-readme.vercel.app/api/746714591098306641?theme=dark&animated=true&hideDiscrim=true&Status=true&idleMessage=Probably%20coding%20something%20amazing...&borderRadius=30px" alt="Discord Presence&Status=true" width="450px" />
     </a>
   </div>
 </div>
@@ -63,7 +63,7 @@
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
     <foreignObject width="900" height="100">
       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px;">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,python,django,php,go,kotlin,swift,flutter,figma,aws" />
+        <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,nextjs,nestjs,vercel,mysql,sqlite,mongodb,vscode,visualstudio,idea,html,css,jquery,wordpress,discordjs,bots,django,docker,linux,nginx,php,powershell,raspberrypi,redis,tailwind,threejs,tensorflow,ubuntu,windows,yarn,bsd,babel,apple,c,cs,cpp,androidstudio,aiscript,bash,cloudflare,dart" />
       </div>
     </foreignObject>
   </svg>
