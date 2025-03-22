@@ -1,481 +1,429 @@
-<!-- CUSTOM ANIMATED HEADER WITH WAVES -->
+<!-- ANIMATED BACKGROUND WAVES HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2986cc&height=180&section=header&text=Amir%20Davodinia&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Creative%20Coder&descAlignY=55&descSize=16" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C47FF&height=200&section=header&text=Amir's%20Digital%20Realm&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Elegant%20Solutions%20to%20Complex%20Problems&descAlignY=55&descSize=15" width="100%">
 </div>
 
 <!-- ANIMATED TYPING EFFECT -->
 <p align="center">
   <a href="https://github.com/AmirVoid12">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+Amir's+World;Full-Stack+Developer;Creative+Problem+Solver;Web+Development+Expert;UI/UX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=6C47FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+Amir's+World;Frontend+Developer;Creative+Problem+Solver;Web+Experience+Architect;Coder+%26+Creator" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- CUSTOM CONTRIBUTION GRAPH -->
+<!-- DIGITAL BANNER WITH NEON GLOW EFFECT -->
 <div align="center">
   <img src="https://github.com/AmirVoid12/AmirVoid12/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid">
 </div>
 
-<!-- ABOUT ME SECTION -->
+<!-- GLOWING TITLE WITH ENHANCED EFFECT -->
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=28&duration=1&pause=1000&color=2986CC&center=true&vCenter=true&repeat=false&width=220&height=45&lines=About+Me" alt="About Me" />
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=About+Amir" alt="About Amir" />
+</div>
+
+<!-- ABOUT SECTION WITH ENHANCED EMOJI AND GRADIENT TEXT -->
+<div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Blob Sunglasses"/> 
+  <span><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=24&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Frontend+Developer+%7C+UI+Architect+%7C+Visionary" /></span>
 </div>
 
 <p align="center">
-  I'm a passionate Full-Stack Developer with a knack for creating elegant solutions to complex problems. My expertise lies in web development, with a focus on modern JavaScript frameworks and responsive design. I love building applications that not only work flawlessly but also deliver exceptional user experiences.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=18&duration=1&pause=1000&color=8A6BFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Amir+is+a+creative+frontend+developer+with+exceptional;problem-solving+abilities.+His+passion+for+user+experience+and;innovation+drives+him+to+create+elegant+solutions+for+complex+challenges." />
 </p>
 
-<p align="center">
-  With a solid foundation in both frontend and backend technologies, I bridge the gap between beautiful interfaces and robust server-side logic. My approach to development is holistic, considering all aspects from performance and security to aesthetics and usability.
-</p>
-
-<!-- CUSTOM STATS CARDS -->
+<!-- ENHANCED STATS CARDS WITH PULSING GRADIENT BORDERS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmirVoid12&style=flat-square&color=2986cc" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=AmirVoid12&style=flat-square&color=6C47FF" alt="Profile Views">
 </div>
 
-<!-- DISCORD LANYARD -->
+<!-- ENHANCED DISCORD LANYARD WITH ANIMATED PULSING BORDER -->
 <div align="center">
-  <a href="https://discord.com/users/746714591098306641">
-    <img src="https://lanyard-profile-readme.vercel.app/api/746714591098306641?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20amazing..." alt="Discord Presence" width="450px" />
-  </a>
+  <div style="border-radius:30px; overflow:hidden;">
+    <a href="https://discord.com/users/746714591098306641">
+      <img src="https://lanyard-profile-readme.vercel.app/api/746714591098306641?theme=dark&animated=true&hideDiscrim=true&Status=true&idleMessage=Coding%20something%20brilliant...&borderRadius=30px" alt="Discord Presence" width="450px" />
+    </a>
+  </div>
 </div>
 
-<!-- CUSTOM DIVIDER -->
+<!-- ANIMATED MATRIX CODE EFFECT -->
 <div align="center">
-  <svg width="100%" height="4" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2986cc" stop-opacity="0.4" />
-      <stop offset="50%" stop-color="#2986cc" stop-opacity="1" />
-      <stop offset="100%" stop-color="#2986cc" stop-opacity="0.4" />
-    </linearGradient>
-    <rect width="100%" height="4" fill="url(#gradient)" rx="2" ry="2" />
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C47FF,100:0d1117&height=2&section=header&text=&fontSize=0" width="100%">
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="450" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6C47FF&height=2&section=header&text=&fontSize=0" width="100%">
 </div>
 
-<!-- TECH STACK SECTION -->
+<!-- TECH STACK SECTION WITH ENHANCED GLOWING TITLE -->
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=28&duration=1&pause=1000&color=2986CC&center=true&vCenter=true&repeat=false&width=220&height=45&lines=Tech+Stack" alt="Tech Stack" />
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Tech+Stack" alt="Tech Stack" />
 </div>
 
-<!-- CUSTOM TECH STACK SVG -->
+<!-- CUSTOM SVG SKILLS SECTION -->
 <div align="center">
-  <svg width="800" height="160" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .tech-item {
-        transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
-      }
-      .tech-item:hover {
-        transform: translateY(-5px);
-        filter: drop-shadow(0 0 10px rgba(41, 134, 204, 0.8));
-      }
-      .tech-title {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-size: 12px;
-        font-weight: 600;
-        fill: #333;
-        text-anchor: middle;
-      }
-      @media (prefers-color-scheme: dark) {
-        .tech-title {
-          fill: #eee;
-        }
-      }
-    </style>
-    
-    <!-- Row 1 -->
-    <g class="tech-item" transform="translate(50, 30)">
-      <rect width="80" height="80" rx="15" fill="#3178C6" />
-      <text x="40" y="105" class="tech-title">TypeScript</text>
-      <path d="M40,20 L40,60 M20,40 L60,40" stroke="white" stroke-width="6" />
-      <path d="M24,52 L24,70 M38,52 L38,70 M24,60 L38,60" stroke="white" stroke-width="4" />
-    </g>
-    
-    <g class="tech-item" transform="translate(150, 30)">
-      <rect width="80" height="80" rx="15" fill="#F7DF1E" />
-      <text x="40" y="105" class="tech-title">JavaScript</text>
-      <path d="M30,65 L30,45 L45,45 L45,65 Q45,72 38,72 Q30,72 30,65 Z M55,45 L55,65 Q55,72 62,72 Q70,72 70,65 L70,60" stroke="black" stroke-width="4" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(250, 30)">
-      <rect width="80" height="80" rx="15" fill="#61DAFB" />
-      <text x="40" y="105" class="tech-title">React</text>
-      <circle cx="40" cy="40" r="12" stroke="black" stroke-width="4" fill="none" />
-      <ellipse cx="40" cy="40" rx="30" ry="10" stroke="black" stroke-width="4" fill="none" transform="rotate(30 40 40)" />
-      <ellipse cx="40" cy="40" rx="30" ry="10" stroke="black" stroke-width="4" fill="none" transform="rotate(-30 40 40)" />
-    </g>
-    
-    <g class="tech-item" transform="translate(350, 30)">
-      <rect width="80" height="80" rx="15" fill="#000000" />
-      <text x="40" y="105" class="tech-title">NextJS</text>
-      <path d="M25,25 L55,55 M55,25 L40,40" stroke="white" stroke-width="4" fill="none" />
-      <path d="M25,25 L55,25 L55,55 L25,55 Z" stroke="white" stroke-width="4" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(450, 30)">
-      <rect width="80" height="80" rx="15" fill="#000000" />
-      <text x="40" y="105" class="tech-title">Express</text>
-      <path d="M25,30 L55,30 M25,45 L55,45 M25,60 L40,60" stroke="white" stroke-width="4" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(550, 30)">
-      <rect width="80" height="80" rx="15" fill="#777BB4" />
-      <text x="40" y="105" class="tech-title">PHP</text>
-      <path d="M20,40 L60,40 L60,60 L20,60 Z" stroke="white" stroke-width="2" fill="none" />
-      <path d="M30,30 L30,40 M30,60 L30,70 M50,30 L50,40 M50,60 L50,70" stroke="white" stroke-width="4" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(650, 30)">
-      <rect width="80" height="80" rx="15" fill="#4479A1" />
-      <text x="40" y="105" class="tech-title">MySQL</text>
-      <path d="M30,25 L50,25 L50,55 L30,55 Z" stroke="white" stroke-width="2" fill="none" />
-      <path d="M50,35 L70,35 L70,45 L50,45 Z" stroke="white" stroke-width="2" fill="none" />
-    </g>
-    
-    <!-- Row 2 -->
-    <g class="tech-item" transform="translate(50, 150)">
-      <rect width="80" height="80" rx="15" fill="#5865F2" />
-      <text x="40" y="105" class="tech-title">Discord.js</text>
-      <path d="M25,40 Q40,25 55,40 Q55,60 40,65 Q25,60 25,40 Z" stroke="white" stroke-width="3" fill="none" />
-      <circle cx="30" cy="42" r="4" fill="white" />
-      <circle cx="50" cy="42" r="4" fill="white" />
-    </g>
-    
-    <g class="tech-item" transform="translate(150, 150)">
-      <rect width="80" height="80" rx="15" fill="#0C0C0C" />
-      <text x="40" y="105" class="tech-title">Batch/CMD</text>
-      <path d="M20,25 L60,25 L60,65 L20,65 Z" stroke="white" stroke-width="2" fill="none" />
-      <path d="M25,35 L40,45 L25,55 M45,55 L55,55" stroke="white" stroke-width="3" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(250, 150)">
-      <rect width="80" height="80" rx="15" fill="#012456" />
-      <text x="40" y="105" class="tech-title">PowerShell</text>
-      <path d="M25,35 L45,50 L25,65 M50,65 L65,65" stroke="white" stroke-width="3" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(350, 150)">
-      <rect width="80" height="80" rx="15" fill="#5C2D91" />
-      <text x="40" y="105" class="tech-title">VBScript</text>
-      <path d="M25,35 L35,65 M45,35 L55,65 M25,50 L55,50" stroke="white" stroke-width="3" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(450, 150)">
-      <rect width="80" height="80" rx="15" fill="#0769AD" />
-      <text x="40" y="105" class="tech-title">jQuery</text>
-      <path d="M30,40 Q20,55 30,65 M40,35 Q30,55 40,70 M50,40 Q40,60 50,65" stroke="white" stroke-width="3" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(550, 150)">
-      <rect width="80" height="80" rx="15" fill="#E34F26" />
-      <text x="40" y="105" class="tech-title">HTML</text>
-      <path d="M25,30 L55,30 L52,60 L40,65 L28,60 Z" stroke="white" stroke-width="2" fill="none" />
-      <path d="M35,40 L45,40 L44,50 L40,52 L36,50 Z" stroke="white" stroke-width="2" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(650, 150)">
-      <rect width="80" height="80" rx="15" fill="#1572B6" />
-      <text x="40" y="105" class="tech-title">CSS</text>
-      <path d="M25,30 L55,30 L52,60 L40,65 L28,60 Z" stroke="white" stroke-width="2" fill="none" />
-      <path d="M35,40 C35,40 40,45 45,40 L44,50 L40,52 L36,50 Z" stroke="white" stroke-width="2" fill="none" />
-    </g>
-    
-    <!-- Row 3 -->
-    <g class="tech-item" transform="translate(50, 270)">
-      <rect width="80" height="80" rx="15" fill="#CC6699" />
-      <text x="40" y="105" class="tech-title">SCSS</text>
-      <path d="M40,30 C25,40 55,50 40,60 C25,70 55,80 40,90" stroke="white" stroke-width="3" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(150, 270)">
-      <rect width="80" height="80" rx="15" fill="#7952B3" />
-      <text x="40" y="105" class="tech-title">Bootstrap</text>
-      <path d="M30,30 L50,30 C60,30 65,40 55,45 C65,50 60,60 50,60 L30,60 Z" stroke="white" stroke-width="2" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(250, 270)">
-      <rect width="80" height="80" rx="15" fill="#DB7093" />
-      <text x="40" y="105" class="tech-title">Styled-Component</text>
-      <path d="M25,30 Q40,20 55,30 Q65,40 55,50 Q40,60 25,50 Q15,40 25,30 Z" stroke="white" stroke-width="2" fill="none" />
-      <path d="M35,35 L35,45 M45,35 L45,45 M35,40 L45,40" stroke="white" stroke-width="2" fill="none" />
-    </g>
-    
-    <g class="tech-item" transform="translate(350, 270)">
-      <rect width="80" height="80" rx="15" fill="#06B6D4" />
-      <text x="40" y="105" class="tech-title">TailwindCSS</text>
-      <path d="M20,35 Q40,25 60,35 M20,55 Q40,45 60,55" stroke="white" stroke-width="3" fill="none" />
-    </g>
-  </svg>
+  <!-- Frontend Section -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Frontend" alt="Frontend" />
+  </h3>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=scss" width="50" height="50" alt="SCSS" />
+    <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="NextJS" />
+    <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery" />
+  </div>
+  
+  <!-- CSS Frameworks Section -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=250&height=45&lines=CSS+Frameworks" alt="CSS Frameworks" />
+  </h3>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="TailwindCSS" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents" width="50" height="50" alt="Styled-Components" />
+  </div>
+  
+  <!-- Backend Section -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Backend" alt="Backend" />
+  </h3>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
+    <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=discord" width="50" height="50" alt="Discord.js" />
+  </div>
+  
+  <!-- Tools Section -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Scripting+%26+Tools" alt="Scripting & Tools" />
+  </h3>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" alt="PowerShell" />
+    <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Batch/CMD" />
+  </div>
 </div>
 
-<!-- CUSTOM DIVIDER -->
+<!-- CUSTOM SKILL VISUALIZATION -->
 <div align="center">
-  <svg width="100%" height="4" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2986cc" stop-opacity="0.4" />
-      <stop offset="50%" stop-color="#2986cc" stop-opacity="1" />
-      <stop offset="100%" stop-color="#2986cc" stop-opacity="0.4" />
-    </linearGradient>
-    <rect width="100%" height="4" fill="url(#gradient2)" rx="2" ry="2" />
-  </svg>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Skill+Proficiency" alt="Skill Proficiency" />
+  </h3>
 </div>
 
-<!-- CODE PROFILE SECTION -->
+<!-- CUSTOM SVG SKILL BARS -->
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=28&duration=1&pause=1000&color=2986CC&center=true&vCenter=true&repeat=false&width=280&height=45&lines=Amir's+Code+Profile" alt="Amir's Code Profile" />
-  </h2>
+  <table>
+    <tr>
+      <td><span>React</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-95.svg" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td><span>TypeScript</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-90.svg" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td><span>JavaScript</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-95.svg" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td><span>NextJS</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-85.svg" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td><span>TailwindCSS</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-90.svg" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td><span>HTML/CSS</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-95.svg" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td><span>Express</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-80.svg" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td><span>PHP</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-75.svg" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td><span>MySQL</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-85.svg" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td><span>Discord.js</span></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/purple-bar-90.svg" width="400">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ENHANCED HOLOGRAPHIC DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C47FF,100:0d1117&height=3&section=header&text=&fontSize=0" width="100%">
+</div>
+
+<!-- ENHANCED CODE PROFILE WITH IMPROVED SYNTAX HIGHLIGHTING -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Amir's+Code+Profile" alt="Amir's Code Profile" />
 </div>
 
 ```javascript
-// amir.js - Amir's Developer Profile v3.0
+// amir.js - Amir's Developer Profile
 const amir = {
-  name: "Amir Davodinia",
-  alias: "AmirVoid12",
-  title: "Full-Stack Developer & Creative Problem Solver",
-  location: "Digital Realm",
+  name: "Amir",
+  alias: "Void12",
+  title: "Frontend Developer & UI Architect",
+  location: "Digital Universe",
   
-  // Core Technical Skills
-  frontendStack: {
-    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "SCSS"],
-    frameworks: ["React", "NextJS"],
-    libraries: ["jQuery"],
-    styling: ["TailwindCSS", "Bootstrap", "Styled-Components"]
+  frontendSkills: {
+    languages: ["TypeScript", "JavaScript", "HTML", "CSS", "SCSS"],
+    frameworks: ["React", "Next.js"],
+    styling: ["TailwindCSS", "Bootstrap", "Styled-Components"],
+    libraries: ["jQuery"]
   },
   
-  backendStack: {
-    languages: ["JavaScript", "TypeScript", "PHP"],
-    frameworks: ["Express", "Node.js"],
+  backendSkills: {
+    languages: ["PHP", "Node.js"],
+    frameworks: ["Express"],
     databases: ["MySQL"],
-    tools: ["RESTful APIs", "GraphQL"]
+    tools: ["Discord.js"]
   },
   
-  automationStack: {
-    scripting: ["PowerShell", "Batch/CMD", "VBScript"],
-    bots: ["Discord.js"]
-  },
+  scriptingSkills: ["PowerShell", "Batch/CMD", "VBScript"],
   
-  // Current Focus Areas
-  currentFocus: [
-    "Enhancing UI/UX design principles",
-    "Server-side rendering optimizations",
-    "Building scalable microservices",
-    "Advanced state management techniques"
+  workingOn: "Building seamless user experiences with Next.js and TailwindCSS",
+  
+  currentLearning: [
+    "Advanced TypeScript patterns",
+    "React Server Components",
+    "Micro-frontend architecture"
   ],
   
-  // Development Philosophy
-  philosophy: {
-    codeQuality: "Clean, maintainable, and well-documented code is non-negotiable",
-    userExperience: "Performance and usability are equally important",
-    problemSolving: "Breaking complex problems into manageable pieces",
-    learning: "Continuous growth and adaptation to new technologies"
-  },
+  funFact: "I can debug CSS issues that make most developers cry!",
   
-  // Fun Facts
-  funFacts: [
-    "Can debug code in my dreams",
-    "Believes semicolons in JavaScript aren't optional",
-    "Passionate about keyboard shortcuts and workflow optimization",
-    "Constantly refactoring personal projects"
+  quotes: [
+    "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics.",
+    "Simplicity is prerequisite for reliability.",
+    "Code is like humor. When you have to explain it, it's bad.",
+    "The best code is no code at all.",
+    "Good code is its own best documentation."
   ],
   
-  // Project Approach
-  projectApproach: function(requirement) {
-    const plan = {
-      research: this.gatherRequirements(requirement),
-      architecture: this.designSolution(requirement),
-      implementation: this.writeCleaneCode(requirement),
-      testing: this.testThoroughly(requirement),
-      deployment: this.deployEfficiently(requirement),
-      maintenance: this.improveContiunously(requirement)
-    };
-    
-    return plan;
+  getRandomQuote: function() {
+    return this.quotes[Math.floor(Math.random() * this.quotes.length)];
   },
   
-  // Career Mission
-  mission: "To create digital experiences that are not just functional, but delightful",
-  
-  // Contact Method
-  sayHello: function() {
-    console.log("Thanks for visiting my profile! Let's build something amazing together.");
-    return {
-      email: "contact@amirdavodinia.ir",
-      website: "https://www.amirdavodinia.ir",
-      discord: "AmirVoid12#0001",
-      github: "https://github.com/AmirVoid12"
-    };
+  introduce: function() {
+    console.log(`👋 Hi there! I'm ${this.name}, but you might know me as ${this.alias}!`);
+    console.log(`💻 I'm a ${this.title} passionate about creating beautiful digital experiences.`);
+    console.log(`🚀 Right now, I'm focused on: ${this.workingOn}`);
+    console.log(`📚 Learning: ${this.currentLearning.join(', ')}`);
+    console.log(`💭 "${this.getRandomQuote()}"`);
+    console.log(`🙌 Let's build something amazing together!`);
   }
 };
 
-// Showcase developer's philosophy
-console.log(amir.philosophy);
-// Output a warm welcome message
-amir.sayHello();
+// Let's introduce ourselves
+amir.introduce();
 ```
 
-<!-- CUSTOM DIVIDER WITH ANIMATION -->
+<!-- ENHANCED HOLOGRAPHIC DIVIDER -->
 <div align="center">
-  <svg width="100%" height="5" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2986cc" stop-opacity="0.4">
-        <animate attributeName="offset" values="0;0.2;0" dur="4s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#2986cc" stop-opacity="1">
-        <animate attributeName="offset" values="0.5;0.7;0.5" dur="4s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#2986cc" stop-opacity="0.4">
-        <animate attributeName="offset" values="1;0.8;1" dur="4s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-    <rect width="100%" height="5" fill="url(#gradient3)" rx="2.5" ry="2.5" />
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6C47FF&height=3&section=header&text=&fontSize=0" width="100%">
 </div>
 
-<!-- GITHUB STATS SECTION -->
+<!-- ENHANCED STATS SECTION WITH ANIMATIONS AND INTENSIFIED GLOW EFFECTS -->
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=28&duration=1&pause=1000&color=2986CC&center=true&vCenter=true&repeat=false&width=435&height=45&lines=GitHub+Stats" alt="GitHub Stats" />
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=GitHub+Stats" alt="GitHub Stats" />
 </div>
 
-<!-- CUSTOM STATS CARDS -->
+<!-- DYNAMICALLY CHANGING STATS WITH ENHANCED GLOWING EDGES -->
 <div align="center">
   <a href="https://github.com/AmirVoid12">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmirVoid12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2986cc&text_color=FFFFFF&icon_color=2986cc" width="49%" alt="Amir's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmirVoid12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6C47FF&text_color=FFFFFF&icon_color=6C47FF" width="49%" alt="Amir's GitHub Stats" />
   </a>
   <a href="https://github.com/AmirVoid12">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirVoid12&theme=tokyonight&hide_border=true&background=0d1117&stroke=2986cc&ring=2986cc&fire=2986cc&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2986cc&sideLabels=2986cc&dates=FFFFFF" width="49%" alt="Amir's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirVoid12&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C47FF&ring=6C47FF&fire=6C47FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C47FF&sideLabels=6C47FF&dates=FFFFFF" width="49%" alt="Amir's GitHub Streak" />
   </a>
 </div>
 
 <br/>
 
-<!-- TOP LANGUAGES CARD -->
+<!-- ENHANCED TOP LANGUAGES CARD WITH INTENSIFIED GLOW -->
 <div align="center">
   <a href="https://github.com/AmirVoid12">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmirVoid12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117&title_color=2986cc&text_color=FFFFFF" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmirVoid12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117&title_color=6C47FF&text_color=FFFFFF" alt="Top Languages" />
   </a>
 </div>
 
-<!-- CUSTOM TROPHY DISPLAY -->
+<!-- ENHANCED TROPHIES WITH INTENSIFIED GLOW -->
 <div align="center">
   <a href="https://github.com/AmirVoid12">
     <img width="95%" src="https://github-profile-trophy.vercel.app/?username=AmirVoid12&theme=nord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
   </a>
 </div>
 
-<!-- ACTIVITY GRAPH -->
+<!-- ENHANCED PULSING 3D ACTIVITY GRAPH -->
 <div align="center">
   <a href="https://github.com/AmirVoid12">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirVoid12&theme=react-dark&hide_border=true&bg_color=0d1117&color=2986cc&line=2986cc&point=FFFFFF" width="95%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirVoid12&theme=react-dark&hide_border=true&bg_color=0d1117&color=6C47FF&line=6C47FF&point=FFFFFF" width="95%" alt="Activity Graph" />
   </a>
 </div>
 
-<!-- CUSTOM DIVIDER -->
+<!-- ENHANCED PROJECTS SECTION WITH GLOWING TITLE -->
 <div align="center">
-  <svg width="100%" height="4" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2986cc" stop-opacity="0.4" />
-      <stop offset="50%" stop-color="#2986cc" stop-opacity="1" />
-      <stop offset="100%" stop-color="#2986cc" stop-opacity="0.4" />
-    </linearGradient>
-    <rect width="100%" height="4" fill="url(#gradient4)" rx="2" ry="2" />
-  </svg>
-</div>
-
-<!-- ACHIEVEMENTS SECTION -->
-<div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=28&duration=1&pause=1000&color=2986CC&center=true&vCenter=true&repeat=false&width=220&height=45&lines=Achievements" alt="Achievements" />
-  </h2>
-</div>
-
-<!-- CUSTOM ACHIEVEMENT CARDS -->
-<div align="center">
-  <!-- ACHIEVEMENT ROW 1 -->
-  <svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .achievement {
-        filter: drop-shadow(0 0 5px rgba(41, 134, 204, 0.3));
-        transition: transform 0.3s ease, filter 0.3s ease;
-      }
-      .achievement:hover {
-        transform: translateY(-5px);
-        filter: drop-shadow(0 0 12px rgba(41, 134, 204, 0.7));
-      }
-      .achievement-title {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-size: 16px;
-        font-weight: 600;
-        fill: #333;
-      }
-      .achievement-desc {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-size: 14px;
-        fill: #555;
-      }
-      @media (prefers-color-scheme: dark) {
-        .achievement-title { fill: #eee; }
-        .achievement-desc { fill: #aaa; }
-      }
-    </style>
-
-    <!-- ACHIEVEMENT 1 -->
-    <g class="achievement" transform="translate(20, 10)">
-      <rect width="360" height="130" rx="15" fill="#0d1117" stroke="#2986cc" stroke-width="2" />
-      <circle cx="60" cy="50" r="30" fill="#2986cc" />
-      <path d="M45,50 L55,60 L75,40" stroke="white" stroke-width="4" fill="none" />
-      <text x="110" y="40" class="achievement-title">Web Development Expert</text>
-      <text x="110" y="65" class="achievement-desc">Created responsive, high-performance web</text>
-      <text x="110" y="85" class="achievement-desc">applications with modern frameworks</text>
-    </g>
-
-    <!-- ACHIEVEMENT 2 -->
-    <g class="achievement" transform="translate(420, 10)">
-      <rect width="360" height="130" rx="15" fill="#0d1117" stroke="#2986cc" stroke-width="2" />
-      <circle cx="60" cy="50" r="30" fill="#2986cc" />
-      <path d="M50,40 C50,40 50,35 60,35 C70,35 70,40 70,40 L70,65 C70,65 70,70 60,70 C50,70 50,65 50,65 Z" stroke="white" stroke-width="3" fill="none" />
-      <path d="M60,45 L60,60 M55,50 L65,50" stroke="white" stroke-width="3" fill="none" />
-      <text x="110" y="40" class="achievement-title">Full-Stack Integration Specialist</text>
-      <text x="110" y="65" class="achievement-desc">Seamlessly connected frontend interfaces</text>
-      <text x="110" y="85" class="achievement-desc">with robust backend systems</text>
-    </g>
-  </svg>
-
-  <!-- ACHIEVEMENT ROW 2 -->
-  <svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
-    <!-- ACHIEVEMENT 3 -->
-    <g class="achievement" transform="translate(20, 10)">
-      <rect width="360" height="130" rx="15" fill="#0d1117" stroke="#2986cc" stroke-width="2" />
-      <circle cx="60" cy="50" r="30" fill="#2986cc" />
-      <path d="M45,40 L60,55 L75,40 M45,60 L60,75 L75,60" stroke="white" stroke-width="3" fill="none" />
-      <text x="110" y="40" class="achievement-title">Discord Bot Developer</text>
-      <text x="110" y="65" class="achievement-desc">Created feature-rich Discord bots</text>
-      <text x="110" y="85" class="achievement-desc">with advanced automation capabilities</text>
-    </g>
-
-    <!-- ACHIEVEMENT 4 -->
-    <g class="achievement" transform="translate(420, 10)">
-      <rect width="360" height="130" rx="15" fill="#0d1117" stroke="#2986cc" stroke-width="2" />
-      <circle cx="60" cy="50" r="30" fill="#2986cc" />
-      <path d="M45,35 L75,35 L75,65 L45,65 Z" stroke="white" stroke-width="3" fill="none" />
-      <path d="M55,45 L65,45 M55,55 L65,55" stroke="white" stroke-width="3" fill="none" />
-      <text x="110" y="40" class="achievement-title">UI/UX Design Specialist</text>
-      <text x="110" y="65" class="achievement-desc">Created intuitive and engaging user</text>
-      <text x="110" y="85" class="achievement-desc">interfaces with modern design principles</text>
-    </g>
-  </svg>
-</div>
-
-<!-- FEATURED PROJECTS SECTION -->
-<div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=28&duration=1&pause=1000&color=2986CC&center=true&vCenter=true&repeat=false&width=280&height=45&lines=Featured+Projects" alt="Featured Projects" />
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Featured+Projects" alt="Featured Projects" />
 </div>
 
 <!-- CUSTOM PROJECT CARDS -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Modern UI/UX Portfolio</h3>
+        <div align="center">  
+          <a href="https://github.com/AmirVoid12/modern-portfolio" target="_blank">
+            <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/project1.png" alt="Modern Portfolio" width="100%" />
+          </a>
+          <br><br>
+          <p>
+            <a href="https://github.com/AmirVoid12/modern-portfolio" target="_blank">
+              <img src="https://img.shields.io/badge/Code-6C47FF?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://modern-portfolio-amirvoid12.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>React, Next.js, TailwindCSS, Three.js</strong> - A stunning portfolio website with 3D elements and smooth animations.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Discord Community Bot</h3>
+        <div align="center">  
+          <a href="https://github.com/AmirVoid12/discord-community-bot" target="_blank">
+            <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/project2.png" alt="Discord Bot" width="100%" />
+          </a>
+          <br><br>
+          <p>
+            <a href="https://github.com/AmirVoid12/discord-community-bot" target="_blank">
+              <img src="https://img.shields.io/badge/Code-6C47FF?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://discord.com/oauth2/authorize?client_id=XXXXXXXXXXXX&permissions=8&scope=bot" target="_blank">
+              <img src="https://img.shields.io/badge/Invite-6C47FF?style=for-the-badge&logo=discord&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>Discord.js, Node.js, Express</strong> - A powerful Discord bot with moderation, music, and custom commands.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">E-Commerce Dashboard</h3>
+        <div align="center">  
+          <a href="https://github.com/AmirVoid12/ecommerce-dashboard" target="_blank">
+            <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/project3.png" alt="E-Commerce Dashboard" width="100%" />
+          </a>
+          <br><br>
+          <p>
+            <a href="https://github.com/AmirVoid12/ecommerce-dashboard" target="_blank">
+              <img src="https://img.shields.io/badge/Code-6C47FF?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://ecommerce-dashboard-amirvoid12.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>TypeScript, Next.js, TailwindCSS, MySQL</strong> - A comprehensive e-commerce admin dashboard with analytics.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Task Management App</h3>
+        <div align="center">  
+          <a href="https://github.com/AmirVoid12/task-management-app" target="_blank">
+            <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/main/assets/project4.png" alt="Task Management App" width="100%" />
+          </a>
+          <br><br>
+          <p>
+            <a href="https://github.com/AmirVoid12/task-management-app" target="_blank">
+              <img src="https://img.shields.io/badge/Code-6C47FF?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://task-app-amirvoid12.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>React, TypeScript, Styled-Components</strong> - A sleek and intuitive task management application with drag-and-drop functionality.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ENHANCED CODING ANIMATION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C47FF,100:0d1117&height=3&section=header&text=&fontSize=0" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651515ea91f7e8eb78d11a2036/images/terminal.svg" width="80%" alt="Coding Animation">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6C47FF&height=3&section=header&text=&fontSize=0" width="100%">
+</div>
+
+<!-- CUSTOM SVG WORKFLOW DIAGRAM -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=My+Development+Process" alt="My Development Process" />
+</div>
+
+<div align="center">
+  <img src="https://mermaid.ink/img/pako:eNp1kc9OwzAMxl8l8mmVYAcelJOlnZC4wAE4mMZrI9IkchJtReXdcbuVTkjkYln-_T7b8glUYxkqmB0nw9biw7o1Rvf1oFbrDjUzJutB0uZouxYlbY1dP9mdhaTBwfJ4Z1t6X3vzYhsjGb-bhrSVkA_yZV3n89yf5P6Cg-QZ-aHPUfLZ-QUHSZpdfFpnFQy9dWdUZUTTgYOqcZ8kmxRpEqerKMqTDOIkiuPVMgrhldnBDyoYjQQFGtSgwCG_D07ysz95w_x37lccJKdX5H5nLQx0OKBsYWYcH8vxWVDh8fv7QwpP4_RjZnpFdXE5PLJD3aEkK1cwa1BDZcC1bL4A64-MaQ?type=png" width="80%" alt="Development Process" />
+</div>
+
+<!-- ENHANCED ACHIEVEMENTS SECTION WITH GLOWING TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Achievements" alt="Achievements" />
+</div>
+
+<!-- ENHANCED ACHIEVEMENT CARDS WITH INTENSIFIED HOVER EFFECTS -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="80">
+        <br>
+        <h3>🏆 Developed Discord bots with 30K+ users</h3>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80">
+        <br>
+        <h3>🌟 Contributed to 10+ open-source projects</h3>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="80">
+        <br>
+        <h3>🚀 Created reusable React component libraries</h3>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star%20Struck.png" alt="Star Struck" width="80">
+        <br>
+        <h3>✨ Built high-performance web applications</h3>
