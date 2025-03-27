@@ -1,71 +1,85 @@
-<!-- Simple Header with SVG -->
+<!-- Animated Header with SVG -->
 <div align="center">
-  <svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="120" fill="#0d1117"/>
-    <text x="50%" y="60" font-family="Arial" font-size="40" font-weight="bold" fill="#6C47FF" text-anchor="middle">Amir's Digital Realm</text>
-    <text x="50%" y="90" font-family="Arial" font-size="16" fill="#ffffff" text-anchor="middle">Crafting Elegant Solutions to Complex Problems</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C47FF&height=180&section=header&text=Amir's%20Digital%20Realm&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Elegant%20Solutions%20to%20Complex%20Problems&descAlignY=55&descSize=15" width="100%">
 </div>
 
-<!-- Simple Typing Text (SVG-based) -->
-<div align="center">
-  <svg width="100%" height="70" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="35" font-family="Arial" font-size="24" font-weight="bold" fill="#6C47FF" text-anchor="middle">Frontend Developer | UI Architect | Visionary</text>
-  </svg>
-</div>
-
-<!-- About Me Section -->
-<div align="center">
-  <p>Creative frontend developer with exceptional problem-solving abilities. My passion for user experience and innovation drives me to create elegant solutions for complex challenges.</p>
-</div>
-
-<!-- Simple Divider -->
-<div align="center">
-  <svg width="100%" height="3" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="3" fill="#6C47FF"/>
-  </svg>
-</div>
-
-<!-- Tech Stack Section -->
-<div align="center">
-  <svg width="100%" height="50" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="35" font-family="Arial" font-size="24" font-weight="bold" fill="#6C47FF" text-anchor="middle">Tech Stack</text>
-  </svg>
-</div>
-
-<!-- Skills Categories -->
-<h3 align="center">Frontend</h3>
+<!-- Animated Typing Effect -->
 <p align="center">
-  TypeScript • JavaScript • HTML • CSS • SCSS • React • Next.js • jQuery
+  <a href="https://github.com/AmirVoid12">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=6C47FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+Amir's+World;Frontend+Developer;Creative+Problem+Solver;Web+Experience+Architect;Coder+%26+Creator" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="center">CSS Frameworks</h3>
-<p align="center">
-  TailwindCSS • Bootstrap • Styled-Components
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  Express • PHP • MySQL • Discord.js
-</p>
-
-<h3 align="center">Tools & Scripting</h3>
-<p align="center">
-  PowerShell • Batch/CMD
-</p>
-
-<!-- Simple Divider -->
+<!-- About Me Section with Enhanced Styling -->
 <div align="center">
-  <svg width="100%" height="3" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="3" fill="#6C47FF"/>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=About+Amir" alt="About Amir" />
 </div>
 
-<!-- Developer Profile -->
 <div align="center">
-  <svg width="100%" height="50" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="35" font-family="Arial" font-size="24" font-weight="bold" fill="#6C47FF" text-anchor="middle">Amir's Code Profile</text>
-  </svg>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Blob Sunglasses"/> 
+  <span><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=24&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Frontend+Developer+%7C+UI+Architect+%7C+Visionary" /></span>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=18&duration=1&pause=1000&color=8A6BFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Creative+frontend+developer+with+exceptional;problem-solving+abilities.+Passionate+about+user+experience+and;innovation+driving+elegant+solutions+for+complex+challenges." />
+</p>
+
+<!-- Enhanced Discord Lanyard with Styling -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Discord+Status" alt="Discord Status" />
+</div>
+
+<div align="center">
+  <a href="https://discord.com/users/746714591098306641">
+    <img src="https://lanyard-profile-readme.vercel.app/api/746714591098306641?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Coding%20something%20brilliant...%20✨" alt="Discord Presence" />
+  </a>
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C47FF,100:0d1117&height=2&section=header&text=&fontSize=0" width="100%">
+</div>
+
+<!-- Tech Stack Section with SVG Icons -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Tech+Stack" alt="Tech Stack" />
+</div>
+
+<!-- Frontend Section with Icons -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Frontend" alt="Frontend" />
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,scss,react,nextjs,jquery" />
+</div>
+
+<!-- CSS Frameworks Section with Icons -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=250&height=45&lines=CSS+Frameworks" alt="CSS Frameworks" />
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,styledcomponents" />
+</div>
+
+<!-- Backend Section with Icons -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=250&height=45&lines=Backend" alt="Backend" />
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=express,php,mysql,discord" />
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6C47FF&height=2&section=header&text=&fontSize=0" width="100%">
+</div>
+
+<!-- Developer Profile with Enhanced Title -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Amir's+Code+Profile" alt="Amir's Code Profile" />
 </div>
 
 ```javascript
@@ -127,116 +141,92 @@ const amir = {
 amir.introduce();
 ```
 
-<!-- Simple Divider -->
+<!-- Animated Divider -->
 <div align="center">
-  <svg width="100%" height="3" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="3" fill="#6C47FF"/>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C47FF,100:0d1117&height=2&section=header&text=&fontSize=0" width="100%">
 </div>
 
-<!-- Skill Proficiency -->
+<!-- Skill Proficiency Section with SVG Bars -->
 <div align="center">
-  <svg width="100%" height="50" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="35" font-family="Arial" font-size="24" font-weight="bold" fill="#6C47FF" text-anchor="middle">Skill Proficiency</text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=28&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=300&height=45&lines=Skill+Proficiency" alt="Skill Proficiency" />
 </div>
 
-<!-- Simple SVG Skill Bars -->
+<!-- Custom SVG Skill Bars -->
 <div align="center">
   <table>
     <tr>
-      <td width="150px">React</td>
-      <td width="400px">
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="95%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+      <td><span>React</span></td>
+      <td>
+        <img src="https://progress-bar.dev/95/?width=400&color=6C47FF">
       </td>
     </tr>
     <tr>
-      <td>TypeScript</td>
+      <td><span>TypeScript</span></td>
       <td>
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="90%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+        <img src="https://progress-bar.dev/90/?width=400&color=6C47FF">
       </td>
     </tr>
     <tr>
-      <td>JavaScript</td>
+      <td><span>JavaScript</span></td>
       <td>
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="95%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+        <img src="https://progress-bar.dev/95/?width=400&color=6C47FF">
       </td>
     </tr>
     <tr>
-      <td>NextJS</td>
+      <td><span>NextJS</span></td>
       <td>
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="85%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+        <img src="https://progress-bar.dev/85/?width=400&color=6C47FF">
       </td>
     </tr>
     <tr>
-      <td>TailwindCSS</td>
+      <td><span>TailwindCSS</span></td>
       <td>
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="90%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+        <img src="https://progress-bar.dev/90/?width=400&color=6C47FF">
       </td>
     </tr>
     <tr>
-      <td>HTML/CSS</td>
+      <td><span>HTML/CSS</span></td>
       <td>
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="95%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+        <img src="https://progress-bar.dev/95/?width=400&color=6C47FF">
       </td>
     </tr>
     <tr>
-      <td>Express</td>
+      <td><span>Express</span></td>
       <td>
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="80%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+        <img src="https://progress-bar.dev/80/?width=400&color=6C47FF">
       </td>
     </tr>
     <tr>
-      <td>PHP</td>
+      <td><span>PHP</span></td>
       <td>
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="75%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+        <img src="https://progress-bar.dev/75/?width=400&color=6C47FF">
       </td>
     </tr>
     <tr>
-      <td>MySQL</td>
+      <td><span>MySQL</span></td>
       <td>
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="85%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+        <img src="https://progress-bar.dev/85/?width=400&color=6C47FF">
       </td>
     </tr>
     <tr>
-      <td>Discord.js</td>
+      <td><span>Discord.js</span></td>
       <td>
-        <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-          <rect width="90%" height="20" fill="#6C47FF" rx="5" ry="5"></rect>
-        </svg>
+        <img src="https://progress-bar.dev/90/?width=400&color=6C47FF">
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Simple Divider -->
+<!-- GitHub Stats -->
 <div align="center">
-  <svg width="100%" height="3" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="3" fill="#6C47FF"/>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=800&size=30&duration=1&pause=1000&color=6C47FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=GitHub+Stats" alt="GitHub Stats" />
 </div>
 
-<!-- Contact Footer -->
 <div align="center">
-  <svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="35" font-family="Arial" font-size="18" fill="#6C47FF" text-anchor="middle">Let's build something amazing together! 👨‍💻</text>
-  </svg>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirVoid12&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C47FF&ring=6C47FF&fire=6C47FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C47FF&sideLabels=6C47FF&dates=FFFFFF" width="450px">
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C47FF&height=100&section=footer&text=Let's%20Connect!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%">
 </div>
