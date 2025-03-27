@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,scss,react,nextjs,jquery,bootstrap,tailwind,styledcomponents,express,php,mysql,discord,powershell&perline=8" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,scss,react,nextjs,jquery,bootstrap,tailwind,styledcomponents,express,php,mysql,discord-js,powershell&perline=8" alt="Skills"/>
 </p>
 
 <!-- GitHub Stats -->
