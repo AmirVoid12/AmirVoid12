@@ -6,7 +6,7 @@
 <!-- Profile Stats -->
 <p align="center">
   <a href="https://github.com/AmirVoid12">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=AmirVoid12&data=followers,repositories,stars,commits&theme=nautical" alt="GitHub Profile"/>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=AmirVoid12&data=followers,repositories,stars,commits&theme=dark" alt="GitHub Profile"/>
   </a>
 </p>
 
