@@ -75,8 +75,8 @@ const amir = {
   backendSkills: {
     languages: ["PHP", "Node.js"],
     frameworks: ["Express"],
-    databases: ["MySQL"],
-    tools: ["Discord.js"]
+    databases: ["MySQL", "MongoDB"],
+    tools: ["Discord.js", "VS Code"]
   },
   
   scriptingSkills: ["PowerShell", "Batch/CMD"],
@@ -113,7 +113,6 @@ const amir = {
   }
 };
 
-// Let's introduce ourselves
 amir.introduce();
 ```
 
