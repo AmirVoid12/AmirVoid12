@@ -53,6 +53,8 @@
   </a>
 </p>
 
+<p><a href="https://amirdavodinia.ir/donate" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support &lt;3"></a></p>
+
 <!-- Developer Profile -->
 <div align="center">
   <h3>Developer Profile</h3>
@@ -115,8 +117,6 @@ const amir = {
 
 amir.introduce();
 ```
-
-<p><a href="https://amirdavodinia.ir/donate" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support &lt;3"></a></p>
 
 <!-- Clean Footer -->
 <div align="center">
