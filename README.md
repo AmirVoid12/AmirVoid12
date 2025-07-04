@@ -11,7 +11,7 @@
 <!-- Profile Stats -->
 <p align="center">
   <a href="https://github.com/AmirVoid12">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=AmirVoid12&data=followers,repositories,stars,commits&theme=dark" alt="GitHub Profile"/>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=AmirVoid12&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile"/>
   </a>
 </p>
 
@@ -28,15 +28,15 @@
 </div>
 
 ## About Me
-I'm Amir, but you might know me as **Void**, a passionate frontend developer and UI architect who lives in Iran. I'm **22** years old and always eager to help others solve their problems in various fields. I have a deep interest in learning new technologies that improve my skills and push the boundaries of what's possible in web development.
+I'm AmirDavodinia, but you might know me as AmirVoid, a passionate frontend developer and UI architect who lives in Iran. I'm 17 years old and always eager to help others solve their problems in various fields. I have a deep interest in learning new technologies that improve my skills and push the boundaries of what's possible in web development.
 
-Around **4** years ago, I started my journey in web development. It didn't take long for me to acquire a keen interest in creating beautiful, functional user interfaces and seamless user experiences. After months of dedicated learning, I embarked on my professional journey by developing modern web applications using React and Next.js starting from early 2021. Recently, I have decided to challenge myself even more by delving into advanced TypeScript patterns, server-side rendering, and performance optimization techniques.
+Around 2 years ago, I started my journey in web development. It didn't take long for me to acquire a keen interest in creating beautiful, functional user interfaces and seamless user experiences. After months of dedicated learning, I embarked on my professional journey by developing modern web applications using React and Next.js starting from early 2024.
+In 2025, I continue to challenge myself even more by delving into advanced TypeScript patterns, server-side rendering, and performance optimization techniques. I'm constantly evolving and pushing forward with new technologies and methodologies.
 
-I have worked on numerous exclusive projects, including over **30** web applications and **20** custom components libraries. These are made for businesses, startups, content creators, and helping them to enhance their digital presence and user engagement. Additionally, my passion project is a comprehensive design system that has taken me considerable time and continues to evolve with new features and improvements.
+Currently, I am working on expanding 3 websites and developing 1 web application. I have worked on numerous exclusive projects made for businesses, startups, content creators, helping them to enhance their digital presence and user engagement. Additionally, my passion project is a comprehensive design system that has taken me considerable time and continues to evolve with new features and improvements.
 
-At the end, hope this information has provided a good understanding of who I am. If you have any questions, suggestions or would like to discuss potential collaborations, feel free to contact me through my social media or check out my [website](https://amirdavodinia.ir).
-
-Thanks for your time! Don't forget to explore the sections below as well.
+I would be grateful for your support as I continue this journey. Unfortunately, due to lack of support, I have to slow down my pace, but I remain committed to creating quality work :(
+At the end, I hope this information has provided a good understanding of who I am. If you have any questions, suggestions, or would like to discuss potential collaborations, please feel free to send me an email (you can find my contact information on my [Website](https://amirdavodinia.ir).
 
 ## My Skills and Tools I use
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,scss,react,nextjs,jquery,bootstrap,styledcomponents,express,php,mysql,mongodb,discordjs,powershell,vscode,git)
