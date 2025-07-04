@@ -22,18 +22,81 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00CED1,100:0d1117&height=2&section=header" width="100%">
 </div>
 
+<!-- About Me -->
+<div align="center">
+  <h3>👋 About Me</h3>
+</div>
+
+<p align="center">
+  <strong>Hi there! I'm Amir, but you might know me as Void!</strong><br>
+  💻 Frontend Developer & UI Architect<br>
+  🚀 Passionate about creating beautiful digital experiences<br>
+  🎯 Currently focused on building seamless user experiences with Next.js and TailwindCSS<br>
+  📚 Always learning and exploring new technologies
+</p>
+
 <!-- Technical Skills -->
 <div align="center">
-  <h3>Technologies & Tools</h3>
+  <h3>🛠️ Technologies & Tools</h3>
 </div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,scss,react,nextjs,jquery,bootstrap,tailwind,styledcomponents,express,php,mysql,discordjs,powershell&perline=8" alt="Skills"/>
 </p>
 
+<!-- Skills Breakdown -->
+<div align="center">
+  <h3>💡 Skills Overview</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h4>🎨 Frontend Development</h4>
+      <strong>Languages:</strong> TypeScript, JavaScript, HTML, CSS, SCSS<br>
+      <strong>Frameworks:</strong> React, Next.js<br>
+      <strong>Styling:</strong> TailwindCSS, Bootstrap, Styled-Components<br>
+      <strong>Libraries:</strong> jQuery
+    </td>
+    <td align="center" width="33%">
+      <h4>⚙️ Backend Development</h4>
+      <strong>Languages:</strong> PHP, Node.js<br>
+      <strong>Frameworks:</strong> Express<br>
+      <strong>Databases:</strong> MySQL, MongoDB<br>
+      <strong>Tools:</strong> Discord.js, VS Code
+    </td>
+    <td align="center" width="33%">
+      <h4>🔧 Scripting & Tools</h4>
+      <strong>Scripting:</strong> PowerShell, Batch/CMD<br>
+      <strong>Currently Learning:</strong><br>
+      • Advanced TypeScript patterns<br>
+      • React Server Components<br>
+      • Micro-frontend architecture
+    </td>
+  </tr>
+</table>
+
+<!-- Fun Fact -->
+<div align="center">
+  <h3>🎯 Fun Fact</h3>
+  <p><em>"I can debug CSS issues that make most developers cry!"</em></p>
+</div>
+
+<!-- Favorite Quotes -->
+<div align="center">
+  <h3>💭 Developer Wisdom</h3>
+</div>
+
+<blockquote align="center">
+  <p><em>"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics."</em></p>
+  <p><em>"Simplicity is prerequisite for reliability."</em></p>
+  <p><em>"The best code is no code at all."</em></p>
+  <p><em>"Good code is its own best documentation."</em></p>
+</blockquote>
+
 <!-- GitHub Stats -->
 <div align="center">
-  <h3>GitHub Stats</h3>
+  <h3>📊 GitHub Stats</h3>
 </div>
 
 <p align="center">
@@ -53,70 +116,20 @@
   </a>
 </p>
 
-<p><a href="https://amirdavodinia.ir/donate" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support &lt;3"></a></p>
-
-<!-- Developer Profile -->
+<!-- Support Section -->
 <div align="center">
-  <h3>Developer Profile</h3>
+  <h3>☕ Support My Work</h3>
+  <p>If you like what I do, consider buying me a coffee!</p>
+  <a href="https://amirdavodinia.ir/donate" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support ❤️">
+  </a>
 </div>
 
-```javascript
-// amir.js - Developer Profile
-const amir = {
-  name: "Amir",
-  alias: "Void",
-  title: "Frontend Developer & UI Architect",
-  
-  frontendSkills: {
-    languages: ["TypeScript", "JavaScript", "HTML", "CSS", "SCSS"],
-    frameworks: ["React", "Next.js"],
-    styling: ["TailwindCSS", "Bootstrap", "Styled-Components"],
-    libraries: ["jQuery"]
-  },
-  
-  backendSkills: {
-    languages: ["PHP", "Node.js"],
-    frameworks: ["Express"],
-    databases: ["MySQL", "MongoDB"],
-    tools: ["Discord.js", "VS Code"]
-  },
-  
-  scriptingSkills: ["PowerShell", "Batch/CMD"],
-  
-  workingOn: "Building seamless user experiences with Next.js and TailwindCSS",
-  
-  currentLearning: [
-    "Advanced TypeScript patterns",
-    "React Server Components",
-    "Micro-frontend architecture"
-  ],
-  
-  funFact: "I can debug CSS issues that make most developers cry!",
-  
-  quotes: [
-    "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics.",
-    "Simplicity is prerequisite for reliability.",
-    "Code is like humor. When you have to explain it, it's bad.",
-    "The best code is no code at all.",
-    "Good code is its own best documentation."
-  ],
-  
-  getRandomQuote: function() {
-    return this.quotes[Math.floor(Math.random() * this.quotes.length)];
-  },
-  
-  introduce: function() {
-    console.log(`👋 Hi there! I'm ${this.name}, but you might know me as ${this.alias}!`);
-    console.log(`💻 I'm a ${this.title} passionate about creating beautiful digital experiences.`);
-    console.log(`🚀 Right now, I'm focused on: ${this.workingOn}`);
-    console.log(`📚 Learning: ${this.currentLearning.join(', ')}`);
-    console.log(`💭 "${this.getRandomQuote()}"`);
-    console.log(`🙌 Let's build something amazing together!`);
-  }
-};
-
-amir.introduce();
-```
+<!-- Let's Connect -->
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <p>🙌 Ready to build something amazing together!</p>
+</div>
 
 <!-- Clean Footer -->
 <div align="center">
