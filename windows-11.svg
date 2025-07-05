@@ -25,7 +25,7 @@
 </defs>
 <g clip-path="url(#clip0_windows_frame)">
 <!-- Background Frame -->
-<rect x="0" y="0" width="256" height="256" rx="60" ry="60" fill="#1C1C1E"/>
+<rect x="0" y="0" width="256" height="256" rx="60" ry="60" fill="#242938"/>
 
 <!-- Windows Logo -->
 <g transform="translate(40, 40)" clip-path="url(#roundedRect)">
