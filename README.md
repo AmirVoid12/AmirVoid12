@@ -60,14 +60,33 @@ At the end, I hope this information has provided a good understanding of who I a
 ![trophy](https://github-profile-trophy.vercel.app/?username=AmirVoid12&theme=tokyonight)
 
 ## Links and More Info
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/746714591098306641)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amir.void)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/amirvoid)
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://amirdavodinia.ir)
-<img src="https://komarev.com/ghpvc/?username=AmirVoid12&color=brightgreen" alt="watching_count" />
-![GitHub last commit](https://img.shields.io/github/last-commit/AmirVoid12/AmirVoid12)
-[![LICENSE: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Checkmarx&logoColor=white&link=mailto:contact@amirdavodinia.ir)](mailto:contact@amirdavodinia.ir)
+<div align="center">
+  
+<!-- Social Media Links with Skill Icons -->
+<a href="https://discord.com/users/746714591098306641">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" height="50"/>
+</a>
+<a href="https://instagram.com/amir.void">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
+</a>
+<a href="https://twitter.com/amirvoid">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50" height="50"/>
+</a>
+<a href="https://amirdavodinia.ir">
+  <img src="https://skillicons.dev/icons?i=chrome" alt="Website" width="50" height="50"/>
+</a>
+<a href="mailto:contact@amirdavodinia.ir">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50"/>
+</a>
+
+<br/><br/>
+
+<!-- Stats -->
+<img src="https://komarev.com/ghpvc/?username=AmirVoid12&color=blueviolet&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/last-commit/AmirVoid12/AmirVoid12?style=flat-square&color=green" alt="Last Commit" />
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License" />
+
+</div>
 
 <p><a href="https://amirdavodinia.ir/donate" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support"></a></p>
 
