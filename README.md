@@ -70,7 +70,7 @@ At the end, I hope this information has provided a good understanding of who I a
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
 </a>
 <a href="https://twitter.com/amirvoid" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=twitter" alt="X" width="50" height="50"/>
 </a>
 <a href="https://amirdavodinia.ir" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=chrome" alt="Website" width="50" height="50"/>
