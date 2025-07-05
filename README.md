@@ -76,7 +76,6 @@ At the end, I hope this information has provided a good understanding of who I a
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50"/>
 </a>
 
-<br/><br/>
 
 <!-- Stats -->
 <img src="https://komarev.com/ghpvc/?username=AmirVoid12&color=blueviolet&style=flat-square" alt="Profile Views" />
