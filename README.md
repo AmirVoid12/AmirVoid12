@@ -48,7 +48,7 @@ At the end, I hope this information has provided a good understanding of who I a
 
 &nbsp;
 
-![My OS](https://skillicons.dev/icons?i=linux,apple&perline=3) <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAPhJREFUaEPtmjEOwjAMRV9GzsLIzMrKeRiYGLgOrKzMjFyFjkEGilAFldJEpK5+x6pO7Z9nN1YdAGKMC2ALrICZ3Rvx1QAnYBdCuISX82cHjnc1tUCWFsABWI9Y8T7XjhbAzaH6bVCNBRCdqv9we7oBhM01e2Pifv5UqeBaXad+7kDJl5ZcSwGkcCWEPtRqxRBCQihFASE0UK3WTFVICAkhHebeDOhLPCQdqpbRIQ7XsFFL2ad6VYRKtoEl11I/kJKoQkiHuRRevjwrhISQEFI/oH4gKwtURlVGswCCqghl+v4380m0lO5/dLsfNbBJFb/DHpZtnsdt7qKul0D/NeiGAAAAAElFTkSuQmCC" alt="Windows 11" width="48" height="48" />
+![My OS](https://skillicons.dev/icons?i=linux,apple&perline=3) <img src="https://img.icons8.com/color/480/windows-11.png" alt="Windows 11" width="48" height="48" />
 
 ## GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirVoid12&count_private=true&show_icons=true&title_color=00CED1&text_color=ffffff&icon_color=00CED1&border_color=30363d&bg_color=0d1117&custom_title=Stats&card_width=494)
