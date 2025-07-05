@@ -48,7 +48,14 @@ At the end, I hope this information has provided a good understanding of who I a
 
 &nbsp;
 
-![My OS](https://skillicons.dev/icons?i=linux,apple&perline=3) <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4cHgiIGhlaWdodD0iNDhweCIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMyMzI0Mjk7IGJvcmRlci1yYWRpdXM6IDRweDsgbWFyZ2luOiAwIDJweDsiPjx0aXRsZT5XaW5kb3dzIDExPC90aXRsZT48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJsdWVHcmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzAwNzhkNDtzdG9wLW9wYWNpdHk6MSIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMxMDZlYmU7c3RvcC1vcGFjaXR5OjEiIC8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjE3IiBoZWlnaHQ9IjE3IiBmaWxsPSJ1cmwoI2JsdWVHcmFkaWVudCkiLz48cmVjdCB4PSIyNSIgeT0iNiIgd2lkdGg9IjE3IiBoZWlnaHQ9IjE3IiBmaWxsPSJ1cmwoI2JsdWVHcmFkaWVudCkiLz48cmVjdCB4PSI2IiB5PSIyNSIgd2lkdGg9IjE3IiBoZWlnaHQ9IjE3IiBmaWxsPSJ1cmwoI2JsdWVHcmFkaWVudCkiLz48cmVjdCB4PSIyNSIgeT0iMjUiIHdpZHRoPSIxNyIgaGVpZ2h0PSIxNyIgZmlsbD0idXJsKCNibHVlR3JhZGllbnQpIi8+PC9zdmc+" alt="Windows 11" />
+![My OS](https://skillicons.dev/icons?i=linux,apple&perline=3) 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px" style="vertical-align: middle; margin-left: 4px;">
+  <rect x="0" y="0" width="48" height="48" rx="4" ry="4" fill="#232429"/>
+  <rect x="6" y="6" width="17" height="17" fill="#0078d4"/>
+  <rect x="25" y="6" width="17" height="17" fill="#0078d4"/>
+  <rect x="6" y="25" width="17" height="17" fill="#0078d4"/>
+  <rect x="25" y="25" width="17" height="17" fill="#0078d4"/>
+</svg>
 
 ## GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirVoid12&count_private=true&show_icons=true&title_color=00CED1&text_color=ffffff&icon_color=00CED1&border_color=30363d&bg_color=0d1117&custom_title=Stats&card_width=494)
