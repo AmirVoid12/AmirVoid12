@@ -63,19 +63,19 @@ At the end, I hope this information has provided a good understanding of who I a
 <div align="center">
   
 <!-- Social Media Links with Skill Icons -->
-<a href="https://discord.com/users/746714591098306641">
+<a href="https://discord.com/users/746714591098306641" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" height="50"/>
 </a>
-<a href="https://instagram.com/amir.void">
+<a href="https://instagram.com/amir.void" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
 </a>
-<a href="https://twitter.com/amirvoid">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50" height="50"/>
+<a href="https://twitter.com/amirvoid" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" width="50" height="50"/>
 </a>
-<a href="https://amirdavodinia.ir">
+<a href="https://amirdavodinia.ir" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=chrome" alt="Website" width="50" height="50"/>
 </a>
-<a href="mailto:contact@amirdavodinia.ir">
+<a href="mailto:contact@amirdavodinia.ir" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50"/>
 </a>
 
