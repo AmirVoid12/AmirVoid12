@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header&text=Amir.Void&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=01698d&height=120&section=header&text=Amir.Void&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%">
 </div>
 
 <!-- Animated Typing -->
