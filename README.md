@@ -57,7 +57,7 @@ At the end, I hope this information has provided a good understanding of who I a
 #
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AmirVoid12&count_private=true&show_icons=true&title_color=58a6ff&text_color=f0f6fc&icon_color=79c0ff&border_color=30363d&bg_color=0d1117&custom_title=Most%20Used%20Languages&card_width=400&layout=compact&langs_count=8&hide_border=false)
 -
-![trophy](https://github-profile-trophy.vercel.app/?username=AmirVoid12&theme=github_dark&column=4&margin-w=10&margin-h=10&no-bg=false&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![trophy](https://github-profile-trophy.vercel.app/?username=AmirVoid12&theme=algolia&column=4&margin-w=10&margin-h=10&no-bg=false&no-frame=false&border_radius=20)
 
 ## Links and More Info
 <div align="center">
