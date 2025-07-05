@@ -51,13 +51,13 @@ At the end, I hope this information has provided a good understanding of who I a
 ![My OS](https://skillicons.dev/icons?i=linux,apple&perline=3) <img src="https://raw.githubusercontent.com/AmirVoid12/AmirVoid12/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
 
 ## GitHub Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirVoid12&count_private=true&show_icons=true&title_color=00CED1&text_color=ffffff&icon_color=00CED1&border_color=30363d&bg_color=0d1117&custom_title=Stats&card_width=494)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AmirVoid12&background=0d1117&border=30363d&stroke=00CED1&ring=00CED1&currStreakNum=00CED1&sideNums=00CED1&currStreakLabel=00CED1&sideLabels=00CED1&dates=ffffff)
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirVoid12&bg_color=0d1117&title_color=00CED1&text_color=ffffff&line=00CED1&point=fff&color=00CED1&radius=7&area=true&area_color=00CED1&custom_title=Contribution%20Graph)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirVoid12&count_private=true&show_icons=true&title_color=077ad4&text_color=ffffff&icon_color=077ad4&border_color=30363d&bg_color=0d1117&custom_title=Stats&card_width=494)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AmirVoid12&background=0d1117&border=30363d&stroke=077ad4&ring=077ad4&currStreakNum=99cdf6&sideNums=99cdf6&currStreakLabel=077ad4&sideLabels=077ad4&dates=cdd4da)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirVoid12&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&line=58a6ff&point=79c0ff&color=58a6ff&radius=12&area=true&area_color=238636&custom_title=Contribution%20Graph&height=400&days=365)
 #
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AmirVoid12&count_private=true&show_icons=true&title_color=00CED1&text_color=ffffff&icon_color=00CED1&border_color=30363d&bg_color=0d1117&custom_title=Most%20Used%20Languages%20in%20Repositories&card_width=360)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AmirVoid12&count_private=true&show_icons=true&title_color=58a6ff&text_color=f0f6fc&icon_color=79c0ff&border_color=30363d&bg_color=0d1117&custom_title=Most%20Used%20Languages&card_width=400&layout=compact&langs_count=8&hide_border=false)
 -
-![trophy](https://github-profile-trophy.vercel.app/?username=AmirVoid12&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=AmirVoid12&theme=github_dark&column=4&margin-w=10&margin-h=10&no-bg=false&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ## Links and More Info
 <div align="center">
