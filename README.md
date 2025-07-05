@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer%20%26%20UI%20Architect;React%20%26%20Next.js%20Specialist;TypeScript%20%26%20JavaScript%20Expert;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=16b9f2&vCenter=true&pause=500&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer%20%26%20UI%20Architect;React%20%26%20Next.js%20Specialist;TypeScript%20%26%20JavaScript%20Expert;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=16b9f2&vCenter=true&pause=200&size=30" />
 </p>
 
 <!-- Profile Stats -->
