@@ -39,7 +39,9 @@ I would be grateful for your support as I continue this journey. Unfortunately, 
 At the end, I hope this information has provided a good understanding of who I am. If you have any questions, suggestions, or would like to discuss potential collaborations, please feel free to send me an email (you can find my contact information on my [Website](https://amirdavodinia.ir).
 
 ## My Skills and Tools I use
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,scss,react,nextjs,jquery,bootstrap,styledcomponents,express,php,mysql,mongodb,discordjs,powershell,vscode,git)
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,styledcomponents,discordjs,html,scss,express,jquery,bootstrap,ts,mongodb,nextjs,mysql,php,python,tailwind,powershell)
+![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,webstorm,androidstudio,git)
+![My OS](https://skillicons.dev/icons?i=windows,linux,apple)
 
 ## GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirVoid12&count_private=true&show_icons=true&title_color=00CED1&text_color=ffffff&icon_color=00CED1&border_color=30363d&bg_color=0d1117&custom_title=Stats&card_width=494)
