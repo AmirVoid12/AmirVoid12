@@ -66,16 +66,13 @@ At the end, I hope this information has provided a good understanding of who I a
 <a href="https://discord.com/users/746714591098306641" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" height="50"/>
 </a>
-<a href="https://instagram.com/amir.void" style="text-decoration: none;">
+<a href="https://instagram.com/amir.void12" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
 </a>
-<a href="https://twitter.com/amirvoid" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="X" width="50" height="50"/>
-</a>
 <a href="https://amirdavodinia.ir" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=chrome" alt="Website" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="Website" width="50" height="50"/>
 </a>
-<a href="mailto:contact@amirdavodinia.ir" style="text-decoration: none;">
+<a href="mailto:amirdavodinia.ir@gmail.com" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50"/>
 </a>
 
