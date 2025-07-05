@@ -48,7 +48,7 @@ At the end, I hope this information has provided a good understanding of who I a
 
 &nbsp;
 
-![My OS](https://skillicons.dev/icons?i=linux,apple&perline=3) <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4cHgiIGhlaWdodD0iNDhweCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGU7IG1hcmdpbi1sZWZ0OiA0cHg7Ij4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSI0IiByeT0iNCIgZmlsbD0iIzIzMjQyOSIvPgogIDxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjMDA3OGQ0Ii8+CiAgPHJlY3QgeD0iMjYiIHk9IjEwIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IiMwMDc4ZDQiLz4KICA8cmVjdCB4PSIxMCIgeT0iMjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0iIzAwNzhkNCIvPgogIDxyZWN0IHg9IjI2IiB5PSIyNiIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjMDA3OGQ0Ii8+Cjwvc3ZnPg==" alt="Windows 11" width="48" height="48" />
+![My OS](https://skillicons.dev/icons?i=linux,apple&perline=3) <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAPhJREFUaEPtmjEOwjAMRV9GzsLIzMrKeRiYGLgOrKzMjFyFjkEGilAFldJEpK5+x6pO7Z9nN1YdAGKMC2ALrICZ3Rvx1QAnYBdCuISX82cHjnc1tUCWFsABWI9Y8T7XjhbAzaH6bVCNBRCdqv9we7oBhM01e2Pifv5UqeBaXad+7kDJl5ZcSwGkcCWEPtRqxRBCQihFASE0UK3WTFVICAkhHebeDOhLPCQdqpbRIQ7XsFFL2ad6VYRKtoEl11I/kJKoQkiHuRRevjwrhISQEFI/oH4gKwtURlVGswCCqghl+v4380m0lO5/dLsfNbBJFb/DHpZtnsdt7qKul0D/NeiGAAAAAElFTkSuQmCC" alt="Windows 11" width="48" height="48" />
 
 ## GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirVoid12&count_private=true&show_icons=true&title_color=00CED1&text_color=ffffff&icon_color=00CED1&border_color=30363d&bg_color=0d1117&custom_title=Stats&card_width=494)
