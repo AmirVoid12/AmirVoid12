@@ -24,7 +24,7 @@
 
 <!-- Clean Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00CED1,100:0d1117&height=2&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2683bf,100:000000&height=2&section=header" width="100%">
 </div>
 
 ## About Me
