@@ -40,7 +40,7 @@ At the end, I hope this information has provided a good understanding of who I a
 
 ## My Skills and Tools I use
 
-![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,styledcomponents,discordjs,html,scss,express,jquery,bootstrap,ts,mongodb,nextjs,mysql,php,python,tailwind,powershell&perline=6)
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,styledcomponents,discordjs,html,java,express,jquery,bootstrap,ts,mongodb,nextjs,mysql,php,python,tailwind,powershell&perline=6)
 
 &nbsp;
 
