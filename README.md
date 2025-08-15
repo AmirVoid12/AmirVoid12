@@ -18,7 +18,7 @@
 <!-- Discord Lanyard -->
 <div align="center">
   <a href="https://discord.com/users/746714591098306641">
-    <img src="https://lanyard-profile-readme.vercel.app/api/746714591098306641?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Coding%20something%20brilliant...%20✨" alt="Discord Presence" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/898834886679494676?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Coding%20something%20brilliant...%20✨" alt="Discord Presence" />
   </a>
 </div>
 
