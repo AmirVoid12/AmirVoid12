@@ -3,11 +3,17 @@
 i'm amir, from tabriz. born 2009.
 
 didn't have the easiest start but computers were always there.
-at 12 i got into how they actually work - not just using them,
+at 12 i got into how they actually work — not just using them,
 like actually understanding the hardware, software, how it all fits.
 assembly included. then 13 hit and i started writing real code,
 python first, then javascript. by 15 i felt solid enough to go deeper.
 now i'm 16 and still going.
+
+outside of coding i know my way around hardware pretty well,
+can take apart and rebuild systems, diagnose issues, the usual.
+networking too — i understand how things talk to each other,
+not just on the surface. and english, i picked it up on my own,
+mostly through tech stuff, documentation, videos.
 
 not much else to say. the repos speak for themselves.
 
@@ -41,6 +47,9 @@ mongodb, mysql, redis. depends on what the project needs.
 
 ### os
 
-<p><img src="https://skillicons.dev/icons?i=linux" /> <img src="https://github.com/AmirDavodiniaa/AmirDavodiniaa/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://github.com/AmirDavodiniaa/AmirDavodiniaa/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
+</p>
 
 linux mostly. windows when i have to.
