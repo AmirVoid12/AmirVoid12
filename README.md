@@ -3,7 +3,7 @@
 i'm amir, from tabriz. born 2009.
 
 didn't have the easiest start but computers were always there.
-at 12 i got into how they actually work — not just using them,
+at 12 i got into how they actually work - not just using them,
 like actually understanding the hardware, software, how it all fits.
 assembly included. then 13 hit and i started writing real code,
 python first, then javascript. by 15 i felt solid enough to go deeper.
@@ -17,9 +17,7 @@ not much else to say. the repos speak for themselves.
 
 ### languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,js,ts,python,java,c" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=rust,js,ts,python,java,c" /></p>
 
 rust is my main thing right now. i like that it forces you to think.
 node with ts/js for backend stuff. python when i just need to get
@@ -28,17 +26,13 @@ going low.
 
 ### databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /></p>
 
 mongodb, mysql, redis. depends on what the project needs.
 
 ### tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=vscode,idea" /></p>
 
 - RustRover for rust
 - CLion for c stuff
@@ -47,10 +41,6 @@ mongodb, mysql, redis. depends on what the project needs.
 
 ### os
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://github.com/AmirDavodinia/AmirDavodinia/raw/refs/heads/main/windows-11.svg"
-       alt="Windows 11" width="48" height="48" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=linux" /><img src="https://github.com/AmirDavodinia/AmirDavodinia/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" /></p>
 
 linux mostly. windows when i have to.
