@@ -1,68 +1,56 @@
-# Quantirium
+# AmirDavodinia
 
-Hey, I'm Quantirium. Been coding since I was pretty young, based in Iran. I like to keep things private so I don't really share my real name here, but you can check out my work and that should tell you enough.
+i'm amir, from tabriz. born 2009.
 
-Still learning new stuff every day and working on different projects. Always something new to figure out.
+didn't have the easiest start but computers were always there.
+at 12 i got into how they actually work — not just using them,
+like actually understanding the hardware, software, how it all fits.
+assembly included. then 13 hit and i started writing real code,
+python first, then javascript. by 15 i felt solid enough to go deeper.
+now i'm 16 and still going.
 
-Anyway, thanks for stopping by.
-
-## What I work with
-
-So here's the tech stack I use. Not everything all the time but these are what I'm comfortable with.
-
-### Languages I know
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
-</p>
-
-JavaScript and TypeScript mostly for web stuff. Python when I need to do something quick or work with data. Java occasionally.
-
-### Frontend stuff
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,styledcomponents" />
-</p>
-
-React is my go-to, Next.js when I need SSR or better routing. Tailwind makes styling way faster. Styled components when I need more control.
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-Node.js with Express is what I use most of the time for backends. Simple and gets the job done.
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-MongoDB for NoSQL projects, MySQL and PostgreSQL when I need relational databases. Depends on the project really.
-
-### Tools I use
-<p>
-<img src="https://skillicons.dev/icons?i=git,vscode,idea,androidstudio" />
-</p>
-
-Git obviously. VSCode is my main editor, IntelliJ IDEA for Java projects, Android Studio when I mess around with mobile stuff.
-
-### Operating Systems
-<p>
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://github.com/Quantirium/Quantirium/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
-</p>
-
-I'm mainly on Linux for development and pretty much everything. I know my way around Windows too when I need to.
+not much else to say. the repos speak for themselves.
 
 ---
 
-## Discord
+## stuff i use
 
-If you want to see what I'm up to or just want to chat:
+### languages
 
-<div align="center">
-  <a href="https://discord.com/users/898834886679494676">
-  <img src="https://lanyard-profile-readme.vercel.app/api/898834886679494676?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Coding%20something%20epic..." width="400" alt="Discord Status" />
-  </a>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,js,ts,python,java,c" />
+</p>
 
-Usually working on something or learning new tech. Feel free to reach out.
+rust is my main thing right now. i like that it forces you to think.
+node with ts/js for backend stuff. python when i just need to get
+something done. java and c here and there. assembly when i feel like
+going low.
+
+### databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+mongodb, mysql, redis. depends on what the project needs.
+
+### tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
+</p>
+
+- RustRover for rust
+- CLion for c stuff
+- IntelliJ for java
+- VSCode for everything else
+
+### os
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://github.com/AmirDavodinia/AmirDavodinia/raw/refs/heads/main/windows-11.svg"
+       alt="Windows 11" width="48" height="48" />
+</p>
+
+linux mostly. windows when i have to.
