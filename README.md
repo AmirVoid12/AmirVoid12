@@ -49,7 +49,7 @@ mongodb, mysql, redis. depends on what the project needs.
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://github.com/AmirDavodiniaa/AmirDavodiniaa/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
+  <img src="https://github.com/AmirVoid12/AmirVoid12/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
 </p>
 
 linux mostly. windows when i have to.
