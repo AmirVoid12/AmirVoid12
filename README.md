@@ -1,49 +1,70 @@
-# AmirDavodinia
+# AmirVoid12 (AmirDavodinia)
 
 i'm amir, from tabriz. born 2009.
 
-didn't have the easiest start but computers were always there.
-at 12 i got into how they actually work - not just using them,
+I've lost people, not myself 💫
+
+computers were always there — when things got hard, when things got quiet.
+at 12 i got into how they actually work. not just using them,
 like actually understanding the hardware, software, how it all fits.
 assembly included. then 13 hit and i started writing real code,
 python first, then javascript. by 15 i felt solid enough to go deeper.
-now i'm 16 and still going.
+now i'm 16. still standing. still building.
 
-outside of coding i know my way around hardware pretty well,
+i've taken hits. life didn't go easy. but every setback pushed me
+further into the craft — not away from it. i'm not here to survive,
+i'm here to grow. and i haven't stopped yet.
+
+outside of coding i know my way around hardware —
 can take apart and rebuild systems, diagnose issues, the usual.
-networking too - i understand how things talk to each other,
-not just on the surface. and english, i picked it up on my own,
-mostly through tech stuff, documentation, videos.
+networking too. i understand how things talk to each other,
+not just on the surface. english i picked up on my own,
+mostly through docs, tech content, and just grinding through it.
 
-not much else to say. the repos speak for themselves.
+🌐 [amirvoid12.ir](https://amirvoid12.ir)
 
 ---
 
-## stuff i use
+## stuff i know
 
-### languages
+### languages i'm solid in
 
 <p><img src="https://skillicons.dev/icons?i=rust,js,ts,python,java,c" /></p>
 
-rust is my main thing right now. i like that it forces you to think.
-node with ts/js for backend stuff. python when i just need to get
-something done. java and c here and there. assembly when i feel like
-going low.
+**rust** is my main thing right now. forces you to think properly.  
+**typescript / javascript** — node.js backend, clean and typed.  
+**python** — when i just need to get something done.  
+**java**, **c** — here and there.  
+**assembly** — when i feel like going low level.  
+**bash / shell / cmd** — scripting, automation, system stuff. daily use.  
+**c# (.net)** — done real work with it.  
+
+### frameworks & runtime
+
+**next.js**, **vue.js** — frontend when needed.
+
+### languages i'm actively learning
+
+i gravitate toward hard languages. the ones that don't hold your hand.
+currently going deeper into:
+
+**C++** — the obvious next step after C and systems work.  
+and on the list: `VBScript` · `Elixir` · `Dart` · and more as i go.
 
 ### databases
 
 <p><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /></p>
 
-mongodb, mysql, redis. depends on what the project needs.
+mongodb, mysql, redis — depends on what the project actually needs.
 
 ### tools
 
 <p><img src="https://skillicons.dev/icons?i=vscode,idea" /></p>
 
-- RustRover for rust
-- CLion for c stuff
-- IntelliJ for java
-- VSCode for everything else
+- RustRover for rust  
+- CLion for c / c++  
+- IntelliJ for java  
+- VSCode for everything else  
 
 ### os
 
