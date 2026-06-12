@@ -1,8 +1,6 @@
 # AmirVoid12 (AmirDavodinia)
 
-i'm amir, from tabriz. born 2009.
-
-I've lost people, not myself 💫
+i'm amir, from tabriz. born 2009. 🎗️
 
 computers were always there — when things got hard, when things got quiet.
 at 12 i got into how they actually work. not just using them,
